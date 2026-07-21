@@ -6,10 +6,8 @@
     "declaringWar": "You are weak! The glorious Prata Kingdom marches to you demise.",
     "attacked": "From the great plains to the east, to our home cities. Our people rise to oppose your conquest!",
     "defeated": "I can feel my power fading... I am lost...",
-    "denounced": "Hmph? You cant insult a king. how barbaric.",
     "introduction": "I am the great king Andeolus Laurito of Prata. Tell me, what lands do you come from..?",
-    "tradeRequest": "Our two Peoples could really use some agreement...",
-
+    
     "innerColor": [0, 0, 180],
     "outerColor": [255, 255, 255],
     "uniqueName": "Imperium Maius",
@@ -19,12 +17,10 @@
     "name": "America",
     "leaderName": "Benjamin Franklin",
 
-    "declaringWar": "Charge! Victory is only one glorious battle away!",
-    "attacked": "You cannot declare war on me! I declared war first..!",
-    "defeated": "Good... End me and give me honour...",
-    "denounced": "Nothing but gibberish.",
-    "introduction": "Good evening, who are you? For I am the leader of Shimang.",
-    "tradeRequest": "Gold? Iron? Weapons? Who knows what things we can get from this trade?",
+    "declaringWar": "War is always tragedy, the more so that you have forced our hand into this.",
+    "attacked": "So you would waste all the industry of your people on death.",
+    "defeated": "What use are tools without a project? Of what use is a mind without ideas? I shall set these down and move on.",
+    "introduction": "Greetings! I am Benjamin Franklin, doctor, scientist, writer, and full of advice, whether you will listen or not.",
 
     "innerColor": [215, 0, 0],
     "outerColor": [255, 255, 255],
