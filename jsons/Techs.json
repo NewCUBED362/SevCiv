@@ -63,6 +63,18 @@
          "cost": 125,
          "prerequisites": ["Pottery","Animal Husbandry"],
        },
+       {
+         "name": "Masonry",
+         "row": 5,
+         "cost": 125,
+         "prerequisites": ["Animal Husbandry"],
+       },
+       {
+         "name": "Masonry Mastery",
+         "row": 6,
+         "cost": 125,
+         "uniques": ["Only available <after discovering [Masonry]>"],
+       },
     ]
   }
 ]
