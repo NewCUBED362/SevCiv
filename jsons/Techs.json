@@ -47,25 +47,25 @@
     "techs": [
        {
          "name": "Writing",
-         "row": 2,
+         "row": 3,
          "cost": 125,
          "prerequisites": ["Pottery"],
        },
        {
          "name": "Writing Mastery",
-         "row": 3,
+         "row": 4,
          "cost": 125,
          "uniques": ["Only available <after discovering [Writing]>"],
        },
        {
          "name": "Irrigation",
-         "row": 4,
+         "row": 6,
          "cost": 125,
          "prerequisites": ["Pottery","Animal Husbandry"],
        },
        {
          "name": "Masonry",
-         "row": 6,
+         "row": 7,
          "cost": 125,
          "prerequisites": ["Animal Husbandry"],
        },
@@ -94,6 +94,18 @@
          "row": 2,
          "cost": 245,
          "uniques": ["Only available <after discovering [Currency]>"],
+       },
+       {
+         "name": "Bronze Working",
+         "row": 3,
+         "cost": 255,
+         "prerequisites": ["Writing","Irrigation"],
+       },
+       {
+         "name": "Bronze Working Mastery",
+         "row": 4,
+         "cost": 255,
+         "uniques": ["Only available <after discovering [Bronze Working]>"],
        },
     ]
   }
