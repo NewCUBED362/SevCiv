@@ -3,6 +3,7 @@
 	{
 		"name": "Fishing Boat",
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
+		"uniques": ["[+1 Food] for each adjacent [Fishing Quay]"],
 	},
 	// Districts
 	{
