@@ -107,6 +107,18 @@
          "cost": 255,
          "uniques": ["Only available <after discovering [Bronze Working]>"],
        },
+       {
+         "name": "The Wheel",
+         "row": 6,
+         "cost": 245,
+         "prerequisites": ["Irrigation","Masonry"],
+       },
+       {
+         "name": "The Wheel Mastery",
+         "row": 7,
+         "cost": 245,
+         "uniques": ["Only available <after discovering [The Wheel]>"],
+       }
     ]
   }
 ]
