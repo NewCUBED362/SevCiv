@@ -1,5 +1,10 @@
 [
 	{
+		"name": "Fishing Quay",
+		"terrainsCanBeBuiltOn": ["Coast","Lake"],
+	},
+	// Misc
+	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable"],
