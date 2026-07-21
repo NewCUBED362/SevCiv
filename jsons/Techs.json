@@ -74,7 +74,7 @@
          "row": 7,
          "cost": 125,
          "uniques": ["Only available <after discovering [Masonry]>"],
-       },
+       }
     ]
   },
   {
@@ -88,6 +88,12 @@
          "row": 1,
          "cost": 245,
          "prerequisites": ["Sailing","Writing"],
+       },
+       {
+         "name": "Currency Mastery",
+         "row": 2,
+         "cost": 245,
+         "uniques": ["Only available <after discovering [Currency]>"],
        },
     ]
   }
