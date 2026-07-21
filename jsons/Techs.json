@@ -7,7 +7,7 @@
     "techs": [
        {
          "name": "Agriculture",
-         "row": 1,
+         "row": 3,
          "cost": 0,
          "uniques": ["Starting tech"],
        }
@@ -22,6 +22,18 @@
        {
          "name": "Sailing",
          "row": 1,
+         "cost": 70,
+         "prerequisites": ["Agriculture"],
+       },
+       {
+         "name": "Pottery",
+         "row": 3,
+         "cost": 70,
+         "prerequisites": ["Agriculture"],
+       },
+       {
+         "name": "Animal Husbandry",
+         "row": 5,
          "cost": 70,
          "prerequisites": ["Agriculture"],
        }
