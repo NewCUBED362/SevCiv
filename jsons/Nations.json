@@ -8,8 +8,8 @@
     "defeated": "Have I played the part well? Then, I exit.",
     "introduction": "I am Octavian, Augustus Caesar, a simple first citizen. And emperor of the world.",
     
-    "innerColor": [0, 0, 180],
-    "outerColor": [255, 255, 255],
+    "innerColor": [247,216,1],
+    "outerColor": [212,20,21],
     "uniqueName": "Imperium Maius",
     "cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii","Catana","Burdigala",
                "Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima","Mogontiacum","Londinium",
@@ -24,8 +24,8 @@
     "defeated": "What use are tools without a project? Of what use is a mind without ideas? I shall set these down and move on.",
     "introduction": "Greetings! I am Benjamin Franklin, doctor, scientist, writer, and full of advice, whether you will listen or not.",
 
-    "innerColor": [215, 0, 0],
-    "outerColor": [255, 255, 255],
+    "innerColor": [1,42,108],
+    "outerColor": [234,225,158],
     "uniqueName": "The First American",
     "cities": ["Washington","New York","Philadelphia","Baltimore","Boston","Chicago","New Orleans","St. Louis","Cincinnati","Cleveland",
                "Pittsburgh","Buffalo","San Francisco","Detroit","Charleston","Albany","Newark","Providence","Milwaukee","Los Angeles",
