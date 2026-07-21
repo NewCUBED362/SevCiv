@@ -104,8 +104,7 @@
 	{
 		"name": "Lakes",
 		"type": "Water",
-		"food": 2,
-		"gold": 1,
+		"food": 1,
 		"RGB": [0, 171, 169],
 		"uniques": ["Fresh water",
 					"Considered [Food] when determining start locations",
