@@ -2,8 +2,8 @@
   {
     "columnNumber": 0,
     "era": "Antiquity Age",
-    "buildingCost": 65,
-    "wonderCost": 100,
+    "buildingCost": 55,
+    "wonderCost": 375,
     "techs": [
        {
          "name": "Agriculture",
