@@ -1,10 +1,17 @@
 [
   {
-    "name": "Average",
-    "startYear": 500,
-    "turns": [
-        {"yearsPerTurn": 12, "untilTurn":  9999},
-             ]
-  }
+        "name": "Average",
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn":  40, "untilTurn": 75},
+            {"yearsPerTurn":  25, "untilTurn": 135},
+            {"yearsPerTurn":  20, "untilTurn": 160},
+            {"yearsPerTurn":  10, "untilTurn": 210},
+            {"yearsPerTurn":   5, "untilTurn": 270},
+            {"yearsPerTurn":   2, "untilTurn": 320},
+            {"yearsPerTurn":   1, "untilTurn": 440},
+            {"yearsPerTurn": 0.5, "untilTurn": 500}
+        ]
+    },
 ]
       
