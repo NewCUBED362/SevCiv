@@ -13,5 +13,11 @@
 		"cost": 55,
 		"requiredTech": "Agriculture",
 		"uniques": ["Creates a [Fishing Quay] improvement on a specific tile"],
+	},
+	{
+		"name": "Granary District",
+		"cost": 55,
+		"requiredTech": "Agriculture",
+		"uniques": ["Creates a [Granary] improvement on a specific tile"],
 	}
 ]
