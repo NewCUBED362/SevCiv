@@ -7,5 +7,9 @@
 		"cost": 0,
 		"uniques": ["Indicates the capital city",
 		            "[+5 Food, +5 Production, +5 Happiness] <during the [Antiquity Age]>"]
+	},
+	{
+		"name": "Fishing Quay",
+		"cost": 55,
 	}
 ]
