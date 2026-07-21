@@ -23,6 +23,7 @@
          "name": "Sailing",
          "row": 1,
          "cost": 70,
+         "prerequisites": ["Agriculture"],
        }
     ]
   }
