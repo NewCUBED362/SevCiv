@@ -164,5 +164,35 @@
          "uniques": ["Only available <after discovering [Military Training]>"],
        }
     ]
-  }
+  },
+  {
+    "columnNumber": 5,
+    "era": "Antiquity Age",
+    "buildingCost": 55,
+    "wonderCost": 375,
+    "techs": [
+       {
+         "name": "Mathematics",
+         "row": 3,
+         "cost": 738,
+         "prerequisites": ["Engineering"],
+       },
+       {
+         "name": "Mathematics Mastery",
+         "row": 4,
+         "cost": 738,
+         "uniques": ["Only available <after discovering [Mathematics]>"],
+       },
+       {
+         "name": "Engineering",
+         "row": 3,
+         "cost": 430,
+         "prerequisites": ["Currency","Bronze Working"],
+       },
+       {
+         "name": "Engineering Mastery",
+         "row": 4,
+         "cost": 430,
+         "uniques": ["Only available <after discovering [Engineering]>"],
+       },
 ]
