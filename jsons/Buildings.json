@@ -11,5 +11,7 @@
 	{
 		"name": "Fishing Quay",
 		"cost": 55,
+		"requiredTech": "Agriculture",
+		"uniques",
 	}
 ]
