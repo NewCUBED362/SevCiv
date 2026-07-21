@@ -9,9 +9,8 @@
 		            "[+5 Food, +5 Production, +5 Happiness] <during the [Antiquity Age]>"]
 	},
 	{
-		"name": "Fishing Quay",
+		"name": "Fishing Quay District",
 		"cost": 55,
 		"requiredTech": "Agriculture",
-		"uniques",
 	}
 ]
