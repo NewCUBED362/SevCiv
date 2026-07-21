@@ -54,7 +54,8 @@
        {
          "name": "Writing Mastery",
          "row": 3,
-         "cost": 0,
+         "cost": 125,
+         "uniques": ["Only available <after discovering [Writing]>"],
        }
     ]
   }
