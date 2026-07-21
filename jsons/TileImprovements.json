@@ -3,6 +3,7 @@
 	{
 		"name": "Fishing Boat",
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
+		"turnsToBuild": 5,
 	},
 	// Districts
 	{
