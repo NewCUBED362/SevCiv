@@ -206,7 +206,7 @@
        {
          "name": "Future Tech",
          "row": 5,
-         "cost": 738,
+         "cost": 1255,
          "prerequisites": ["Navigation","Mathematics","Iron Working"],
        }
     ]
