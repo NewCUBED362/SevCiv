@@ -33,7 +33,7 @@
        },
        {
          "name": "Animal Husbandry",
-         "row": 5,
+         "row": 6,
          "cost": 70,
          "prerequisites": ["Agriculture"],
        }
@@ -65,13 +65,13 @@
        },
        {
          "name": "Masonry",
-         "row": 5,
+         "row": 6,
          "cost": 125,
          "prerequisites": ["Animal Husbandry"],
        },
        {
          "name": "Masonry Mastery",
-         "row": 6,
+         "row": 7,
          "cost": 125,
          "uniques": ["Only available <after discovering [Masonry]>"],
        },
