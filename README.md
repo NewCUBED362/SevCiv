@@ -1,2 +1,2 @@
-# Terra-Mira
-A mod for testing stuff and just anything I come up with in my mind when I am bored!
+# SevCiv
+A recreation of Civilization VII inside Unciv. Since some features in Civ7 cannot be recreated in Unciv, liberties will be taken.
