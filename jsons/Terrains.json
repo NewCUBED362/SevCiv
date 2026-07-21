@@ -71,6 +71,8 @@
 	{
 		"name": "Tundra",
 		"type": "Land",
+		"production": 1,
+		"culture": 1,
 		"movementCost": 1,
 		"RGB": [124, 62, 57],
 		"uniques": ["Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
