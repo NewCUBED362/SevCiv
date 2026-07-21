@@ -76,5 +76,19 @@
          "uniques": ["Only available <after discovering [Masonry]>"],
        },
     ]
+  },
+  {
+    "columnNumber": 3,
+    "era": "Antiquity Age",
+    "buildingCost": 55,
+    "wonderCost": 375,
+    "techs": [
+       {
+         "name": "Currency",
+         "row": 1,
+         "cost": 245,
+         "prerequisites": ["Sailing","Writing"],
+       },
+    ]
   }
 ]
