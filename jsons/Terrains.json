@@ -189,6 +189,7 @@
 		"defenceBonus": 0.25,
 		"occursOn": ["Tundra","Plains","Grassland","Hill"],
 		"uniques": ["Rough terrain", "Vegetation",
+			        "[+1 Food] <in [Grassland] tiles>",
 					"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
 					"Blocks line-of-sight from tiles at same elevation",
 					"[25]% Chance to be destroyed by nukes",
@@ -205,7 +206,8 @@
 	{
 		"name": "Jungle",
 		"type": "TerrainFeature",
-		"food": 2,
+		"food": 1,
+		"production": 1,
 		"movementCost": 2,
 		"overrideStats": true,
 		"unbuildable": true,
@@ -213,6 +215,7 @@
 		"occursOn": ["Plains","Grassland"],
 		"uniques": [
 			"Rough terrain", "Vegetation",
+			"[+1 Food] <in [Grassland] tiles>",
 			"Blocks line-of-sight from tiles at same elevation",
 			"[25]% Chance to be destroyed by nukes",
 			"[-1] to Fertility for Map Generation",
