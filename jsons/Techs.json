@@ -38,5 +38,19 @@
          "prerequisites": ["Agriculture"],
        }
     ]
+  },
+  {
+    "columnNumber": 2,
+    "era": "Antiquity Age",
+    "buildingCost": 55,
+    "wonderCost": 375,
+    "techs": [
+       {
+         "name": "Writing",
+         "row": 2,
+         "cost": 125,
+         "prerequisites": ["Pottery"],
+       }
+    ]
   }
 ]
