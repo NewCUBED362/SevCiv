@@ -11,7 +11,8 @@
     "innerColor": [0, 0, 180],
     "outerColor": [255, 255, 255],
     "uniqueName": "Imperium Maius",
-    "cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii","Catana"],
+    "cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii","Catana","Burdigala",
+               "Narbo Martius","Gades","Lugdunum","Bononia"],
   },
   {
     "name": "America",
