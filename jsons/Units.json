@@ -14,14 +14,14 @@
     "movement": 1,
     "uniques": ["Can build [Improvement] improvements on tiles"],
   },
-	{
-		"name": "Work Boats",
-		"unitType": "Civilian Water",
-		"movement": 4,
-		"cost": 30,
-		"uniques": ["Cannot enter ocean tiles", "May create improvements on water resources",
-            "Uncapturable", "Automation is a primary action"]
-	},
+  {
+	"name": "Work Boats",
+	"unitType": "Civilian Water",
+	"movement": 4,
+	"cost": 30,
+	"uniques": ["Cannot enter ocean tiles", "May create improvements on water resources",
+        "Uncapturable", "Automation is a primary action","Can instantly construct a [Fishing Boat] improvement <by consuming this unit>"]
+  },
   {
     "name": "Warrior",
     "unitType": "Blunt",
