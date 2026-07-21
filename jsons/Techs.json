@@ -12,5 +12,18 @@
          "uniques": ["Starting tech"],
        }
     ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "Antiquity Age",
+    "buildingCost": 55,
+    "wonderCost": 375,
+    "techs": [
+       {
+         "name": "Sailing",
+         "row": 1,
+         "cost": 70,
+       }
+    ]
   }
 ]
