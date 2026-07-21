@@ -120,5 +120,49 @@
          "uniques": ["Only available <after discovering [The Wheel]>"],
        }
     ]
+  },
+  {
+    "columnNumber": 4,
+    "era": "Antiquity Age",
+    "buildingCost": 55,
+    "wonderCost": 375,
+    "techs": [
+       {
+         "name": "Navigation",
+         "row": 1,
+         "cost": 430,
+         "prerequisites": ["Currency"],
+       },
+       {
+         "name": "Navigation Mastery",
+         "row": 2,
+         "cost": 430,
+         "uniques": ["Only available <after discovering [Navigation]>"],
+       },
+       {
+         "name": "Bronze Working",
+         "row": 3,
+         "cost": 255,
+         "prerequisites": ["Writing","Irrigation"],
+       },
+       {
+         "name": "Bronze Working Mastery",
+         "row": 4,
+         "cost": 255,
+         "uniques": ["Only available <after discovering [Bronze Working]>"],
+       },
+       {
+         "name": "The Wheel",
+         "row": 6,
+         "cost": 245,
+         "prerequisites": ["Irrigation","Masonry"],
+       },
+       {
+         "name": "The Wheel Mastery",
+         "row": 7,
+         "cost": 245,
+         "uniques": ["Only available <after discovering [The Wheel]>"],
+       }
+    ]
   }
 ]
