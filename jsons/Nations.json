@@ -1,6 +1,6 @@
 [
   {
-    "name": "The Romans",
+    "name": "Rome",
     "leaderName": "Augustus",
 
     "declaringWar": "You are weak! The glorious Prata Kingdom marches to you demise.",
@@ -16,8 +16,8 @@
     "cities": ["Roma"],
   },
   {
-    "name": "Shimang",
-    "leaderName": "Suijin",
+    "name": "America",
+    "leaderName": "Benjamin Franklin",
 
     "declaringWar": "Charge! Victory is only one glorious battle away!",
     "attacked": "You cannot declare war on me! I declared war first..!",
@@ -28,7 +28,7 @@
 
     "innerColor": [215, 0, 0],
     "outerColor": [255, 255, 255],
-    "uniqueName": "Ancient Builders",
-    "cities": ["Shimang City","Shozu","Manchi","Yasazu","Ilisayen","Yikasiza","Guza"],
+    "uniqueName": "The First American",
+    "cities": ["Washington"],
   }
 ]
