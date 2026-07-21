@@ -12,5 +12,6 @@
 		"name": "Fishing Quay District",
 		"cost": 55,
 		"requiredTech": "Agriculture",
+		"uniques": ["Creates a [Fishing Quay] improvement on a specific tile"],
 	}
 ]
