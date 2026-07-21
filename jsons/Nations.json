@@ -13,7 +13,7 @@
     "uniqueName": "Imperium Maius",
     "cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii","Catana","Burdigala",
                "Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima","Mogontiacum","Londinium",
-               "Caesaraugusta","Sarmizegetusa","Hispalis","Iader"],
+               "Caesaraugusta","Sarmizegetusa","Hispalis","Iader","Eboracum","Vindobona","Olisipo","Volubilis","Lutetia"],
   },
   {
     "name": "America",
