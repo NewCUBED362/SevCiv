@@ -196,5 +196,19 @@
          "uniques": ["Only available <after discovering [Iron Working]>"],
        },
     ]
+  },
+  {
+    "columnNumber": 6,
+    "era": "Antiquity Age",
+    "buildingCost": 55,
+    "wonderCost": 375,
+    "techs": [
+       {
+         "name": "Future Tech",
+         "row": 5,
+         "cost": 738,
+         "prerequisites": ["Navigation","Mathematics","Iron Working"],
+       }
+    ]
   }
 ]
