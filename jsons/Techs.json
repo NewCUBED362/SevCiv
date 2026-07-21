@@ -184,15 +184,17 @@
          "uniques": ["Only available <after discovering [Mathematics]>"],
        },
        {
-         "name": "Engineering",
-         "row": 3,
-         "cost": 430,
-         "prerequisites": ["Currency","Bronze Working"],
+         "name": "Iron Working",
+         "row": 6,
+         "cost": 738,
+         "prerequisites": ["Military Training"],
        },
        {
-         "name": "Engineering Mastery",
-         "row": 4,
-         "cost": 430,
-         "uniques": ["Only available <after discovering [Engineering]>"],
+         "name": "Iron Working Mastery",
+         "row": 7,
+         "cost": 738,
+         "uniques": ["Only available <after discovering [Iron Working]>"],
        },
+    ]
+  }
 ]
