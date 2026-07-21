@@ -140,16 +140,16 @@
          "uniques": ["Only available <after discovering [Navigation]>"],
        },
        {
-         "name": "Bronze Working",
+         "name": "Engineering",
          "row": 3,
-         "cost": 255,
-         "prerequisites": ["Writing","Irrigation"],
+         "cost": 430,
+         "prerequisites": ["Currency","Bronze Working"],
        },
        {
-         "name": "Bronze Working Mastery",
+         "name": "Engineering Mastery",
          "row": 4,
          "cost": 255,
-         "uniques": ["Only available <after discovering [Bronze Working]>"],
+         "uniques": ["Only available <after discovering [Engineering]>"],
        },
        {
          "name": "The Wheel",
