@@ -56,7 +56,13 @@
          "row": 3,
          "cost": 125,
          "uniques": ["Only available <after discovering [Writing]>"],
-       }
+       },
+       {
+         "name": "Irrigation",
+         "row": 4,
+         "cost": 125,
+         "prerequisites": ["Pottery","Animal Husbandry"],
+       },
     ]
   }
 ]
