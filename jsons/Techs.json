@@ -148,20 +148,20 @@
        {
          "name": "Engineering Mastery",
          "row": 4,
-         "cost": 255,
+         "cost": 430,
          "uniques": ["Only available <after discovering [Engineering]>"],
        },
        {
-         "name": "The Wheel",
+         "name": "Military Training",
          "row": 6,
-         "cost": 245,
-         "prerequisites": ["Irrigation","Masonry"],
+         "cost": 430,
+         "prerequisites": ["Bronze Working","The Wheel"],
        },
        {
-         "name": "The Wheel Mastery",
+         "name": "Military Training Mastery",
          "row": 7,
-         "cost": 245,
-         "uniques": ["Only available <after discovering [The Wheel]>"],
+         "cost": 430,
+         "uniques": ["Only available <after discovering [Military Training]>"],
        }
     ]
   }
