@@ -1,7 +1,7 @@
 [
   {
-    "name": "Prata",
-    "leaderName": "Andeolus Laurito",
+    "name": "The Romans",
+    "leaderName": "Augustus",
 
     "declaringWar": "You are weak! The glorious Prata Kingdom marches to you demise.",
     "attacked": "From the great plains to the east, to our home cities. Our people rise to oppose your conquest!",
@@ -12,8 +12,8 @@
 
     "innerColor": [0, 0, 180],
     "outerColor": [255, 255, 255],
-    "uniqueName": "Grand Monuments",
-    "cities": ["Prata","Lotirus","Solimus","Helena","Mosuvius","Perator","Poleosus"],
+    "uniqueName": "Imperium Maius",
+    "cities": ["Roma"],
   },
   {
     "name": "Shimang",
