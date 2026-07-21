@@ -1,6 +1,6 @@
 [
   {
-        "name": "Average",
+        "name": "Standard",
         "startYear": -4000,
         "turns": [
             {"yearsPerTurn":  40, "untilTurn": 75},
