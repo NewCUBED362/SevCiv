@@ -70,7 +70,6 @@
 	{
 		"name": "Tundra",
 		"type": "Land",
-		"food": 1,
 		"movementCost": 1,
 		"RGB": [124, 62, 57],
 		"uniques": ["Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
@@ -88,6 +87,7 @@
 	{
 		"name": "Desert",
 		"type": "Land",
+		"production": 1,
 		"movementCost": 1,
 		"RGB": [230, 172, 0],
 		"uniques": ["Occurs at temperature between [-0.1] and [0.9] and humidity between [0] and [0.2]",
