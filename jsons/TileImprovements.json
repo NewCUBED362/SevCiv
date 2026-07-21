@@ -2,6 +2,7 @@
 	{
 		"name": "Fishing Quay",
 		"terrainsCanBeBuiltOn": ["Coast","Lake"],
+		"food": 1,
 	},
 	// Misc
 	{
