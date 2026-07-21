@@ -1,0 +1,16 @@
+[
+  {
+    "columnNumber": 0,
+    "era": "Ancient era",
+    "buildingCost": 65,
+    "wonderCost": 100,
+    "techs": [
+       {
+         "name": "Agriculture",
+         "row": 1,
+         "cost": 0,
+         "uniques": ["Starting tech"],
+       }
+    ]
+  }
+]
