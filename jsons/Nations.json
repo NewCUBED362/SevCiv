@@ -3,10 +3,10 @@
     "name": "Rome",
     "leaderName": "Augustus",
 
-    "declaringWar": "You are weak! The glorious Prata Kingdom marches to you demise.",
-    "attacked": "From the great plains to the east, to our home cities. Our people rise to oppose your conquest!",
-    "defeated": "I can feel my power fading... I am lost...",
-    "introduction": "I am the great king Andeolus Laurito of Prata. Tell me, what lands do you come from..?",
+    "declaringWar": "The die is cast.",
+    "attacked": "Come, break your swords on our walls.",
+    "defeated": "Have I played the part well? Then, I exit.",
+    "introduction": "I am Octavian, Augustus Caesar, a simple first citizen. And emperor of the world.",
     
     "innerColor": [0, 0, 180],
     "outerColor": [255, 255, 255],
