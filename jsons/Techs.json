@@ -71,7 +71,7 @@
        },
        {
          "name": "Masonry Mastery",
-         "row": 7,
+         "row": 8,
          "cost": 125,
          "uniques": ["Only available <after discovering [Masonry]>"],
        }
