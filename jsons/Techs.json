@@ -175,7 +175,7 @@
          "name": "Mathematics",
          "row": 3,
          "cost": 738,
-         "prerequisites": ["Engineering"],
+         "prerequisites": ["Navigation","Engineering"],
        },
        {
          "name": "Mathematics Mastery",
@@ -207,7 +207,7 @@
          "name": "Future Tech",
          "row": 5,
          "cost": 1255,
-         "prerequisites": ["Navigation","Mathematics","Iron Working"],
+         "prerequisites": ["Mathematics","Iron Working"],
        }
     ]
   }
