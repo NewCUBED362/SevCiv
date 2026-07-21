@@ -1,4 +1,10 @@
 [
+	// Tile Improvements
+	{
+		"name": "Fishing Boat",
+		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
+	},
+	// Districts
 	{
 		"name": "Fishing Quay",
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
