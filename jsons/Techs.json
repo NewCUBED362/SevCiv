@@ -7,7 +7,7 @@
     "techs": [
        {
          "name": "Agriculture",
-         "row": 3,
+         "row": 4,
          "cost": 0,
          "uniques": ["Starting tech"],
        }
@@ -27,7 +27,7 @@
        },
        {
          "name": "Pottery",
-         "row": 3,
+         "row": 4,
          "cost": 70,
          "prerequisites": ["Agriculture"],
        },
@@ -50,6 +50,11 @@
          "row": 2,
          "cost": 125,
          "prerequisites": ["Pottery"],
+       },
+       {
+         "name": "Writing Mastery",
+         "row": 3,
+         "cost": 0,
        }
     ]
   }
