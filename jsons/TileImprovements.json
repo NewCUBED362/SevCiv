@@ -11,6 +11,11 @@
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
 		"food": 1,
 	},
+	{
+		"name": "Granary",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+		"food": 1,
+	},
 	// Misc
 	{
 		"name": "City ruins",
