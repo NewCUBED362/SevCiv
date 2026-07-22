@@ -35,6 +35,9 @@
     "cost": 50,
     "movement": 3,
     "strength": 15,
+	"rangedStrength": 20,
+	"range": 1,
+	"requiredTech": "Sailing",
   },
  
 ]
