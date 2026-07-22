@@ -34,7 +34,7 @@
     "unitType": "Ranged Water",
     "cost": 50,
     "movement": 3,
-    "strength": 15,
+    "strength": 25,
 	"rangedStrength": 20,
 	"range": 1,
 	"requiredTech": "Sailing",
