@@ -1,14 +1,14 @@
 [
 	// Tile Improvements
 	{
-		"name": "Fishing Boat",
-		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
-		"uniques": ["[+1 Food] for each adjacent [Fishing Quay]"],
-	},
-	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
 		"food": 1,
+	},
+	{
+		"name": "Fishing Boat",
+		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
+		"uniques": ["[+1 Food] for each adjacent [Fishing Quay]"],
 	},
 	// Districts
 	{
