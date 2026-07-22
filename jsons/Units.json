@@ -31,7 +31,7 @@
   },
   {
     "name": "Galley",
-    "unitType": "Water",
+    "unitType": "Ranged Water",
     "cost": 40,
     "movement": 1,
     "strength": 15,
