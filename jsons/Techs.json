@@ -33,6 +33,7 @@
          "row": 4,
          "cost": 70,
          "prerequisites": ["Agriculture"],
+         "quote": "'All are made of clay.' - Henry Wadsworth Longfellow.",
        },
        {
          "name": "Animal Husbandry",
