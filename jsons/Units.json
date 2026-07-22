@@ -55,7 +55,10 @@
     "unitType": "Archery",
     "cost": 30,
     "movement": 2,
-    "strength": 20,
+    "strength": 5,
+	"rangedStrength": 15,
+	"range": 2,
+	"requiredTech": "Animal Husbandry",
 	"attackSound": "arrow",
   }
 ]
