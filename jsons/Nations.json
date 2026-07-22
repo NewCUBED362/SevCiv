@@ -80,7 +80,7 @@
     "attacked": "Very well, this shall not be forgotten.",
     "defeated": "This isn't how it is supposed to be!",
 
-    "innerColor": [109,0,205],
+    "innerColor": [0,79,206],
     "outerColor": [0,0,0],
     "cities": ["Gaegyeong"],
   }
