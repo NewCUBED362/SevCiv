@@ -28,5 +28,25 @@
             "[+6 Science]"
         ],
         "color": [139, 96, 255]
+    },
+    {
+        "name": "Diplomatic",
+        "friendBonusUniques": [
+            "[+1 Happiness]"
+        ],
+        "allyBonusUniques": [
+            "[+3 Happiness]"
+        ],
+        "color": [139, 96, 255]
+    },
+    {
+        "name": "Expansionist",
+        "friendBonusUniques": [
+            "[+3 Food]"
+        ],
+        "allyBonusUniques": [
+            "[+6 Food]"
+        ],
+        "color": [139, 96, 255]
     }
 ]
