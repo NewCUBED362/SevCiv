@@ -56,7 +56,7 @@
     "attacked": "Very well, this shall not be forgotten.",
     "defeated": "We never fully trusted you from the start.",
 
-    "innerColor": [110,60,50],
+    "innerColor": [247,214,1],
     "outerColor": [0,0,0],
     "cities": ["Tyre"],
   }
