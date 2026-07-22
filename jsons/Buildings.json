@@ -33,5 +33,11 @@
 		"requiredTech": "Sailing",
 		"uniques": ["Creates a [Harbor] improvement on a specific tile",
 		            "Can only be built <in [Coastal] cities>"],
+	},
+	{
+		"name": "Saw Pit District",
+		"cost": 55,
+		"requiredTech": "Animal Husbandry",
+		"uniques": ["Creates a [Saw Pit] improvement on a specific tile"],
 	}
 ]
