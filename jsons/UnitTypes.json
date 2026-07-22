@@ -12,6 +12,10 @@
     "movementType": "Land",
   },
   {
+    "name": "Support",
+    "movementType": "Land",
+  },
+  {
     "name": "Ranged Water",
     "movementType": "Water",
   }
