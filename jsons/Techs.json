@@ -9,6 +9,7 @@
          "name": "Agriculture",
          "row": 4,
          "cost": 0,
+         "quote": "'The radiance of the new world came into being bathed in nectar, bathed in love.' - Preah Khan Inscription.",
          "uniques": ["Starting tech"],
        }
     ]
