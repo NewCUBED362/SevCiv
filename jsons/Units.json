@@ -52,10 +52,11 @@
   },
   {
     "name": "Slinger",
-    "unitType": "Sword",
+    "unitType": "Archery",
     "cost": 30,
     "movement": 2,
     "strength": 20,
+	"attackSound": "arrow",
   }
 ]
     
