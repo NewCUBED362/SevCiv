@@ -30,6 +30,12 @@
 		"uniques": ["[+1 Food] for each adjacent [Farm]"],
 	},
 	{
+		"name": "Brickyard",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+		"production": 1,
+		"uniques": ["[+1 Production] for each adjacent [Clay Pit]"],
+	},
+	{
 		"name": "Harbor",
 		"terrainsCanBeBuiltOn": ["Coast"],
 		"production": 1,
