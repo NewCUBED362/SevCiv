@@ -38,7 +38,7 @@
 	"rangedStrength": 20,
 	"range": 1,
 	"requiredTech": "Sailing",
-  },
- 
+	"attackSound": "arrow",
+  }
 ]
     
