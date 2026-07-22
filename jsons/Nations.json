@@ -30,5 +30,19 @@
     "cities": ["Washington","New York","Philadelphia","Baltimore","Boston","Chicago","New Orleans","St. Louis","Cincinnati","Cleveland",
                "Pittsburgh","Buffalo","San Francisco","Detroit","Charleston","Albany","Newark","Providence","Milwaukee","Los Angeles",
                "Salem","Louisville","Richmond","Norfolk","Minneapolis","Jersey City","Newport","Newburyport","Indianapolis"],
+  },
+  {
+    "name": "The Han",
+    "leaderName": "Confucius",
+
+    "declaringWar": "War is always tragedy, the more so that you have forced our hand into this.",
+    "attacked": "So you would waste all the industry of your people on death.",
+    "defeated": "What use are tools without a project? Of what use is a mind without ideas? I shall set these down and move on.",
+    "introduction": "Greetings! I am Benjamin Franklin, doctor, scientist, writer, and full of advice, whether you will listen or not.",
+
+    "innerColor": [1,42,108],
+    "outerColor": [234,225,158],
+    "uniqueName": "Keju",
+    "cities": ["Chang'an"],
   }
 ]
