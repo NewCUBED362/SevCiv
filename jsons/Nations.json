@@ -49,14 +49,15 @@
   },
     // Independent Peoples
   {
-    "name": "Pho",
+    "name": "Phoenicia",
+    "cityStateType": "Economic",
 
     "declaringWar": "One must know when one can fight. And now we can.",
     "attacked": "Heaven is against you. you shall see.",
     "defeated": "Death! What a blessing! The righteous man can rest, and villains' tricks end.",
 
     "innerColor": [110,60,50],
-    "outerColor": [220,200,100],
-    "cities": ["Tired"],
+    "outerColor": [0,0,0],
+    "cities": ["Tyre"],
   }
 ]
