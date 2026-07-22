@@ -4,6 +4,7 @@
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
 		"food": 1,
+		"turnsToBuild": 5,
 	},
 	{
 		"name": "Fishing Boat",
