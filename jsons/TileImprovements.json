@@ -23,24 +23,25 @@
 		"name": "Fishing Quay",
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
 		"food": 1,
+		"uniques": ["Irremovable"],
 	},
 	{
 		"name": "Granary",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
 		"food": 1,
-		"uniques": ["[+1 Food] for each adjacent [Farm]"],
+		"uniques": ["[+1 Food] for each adjacent [Farm]","Irremovable"],
 	},
 	{
 		"name": "Brickyard",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
 		"production": 1,
-		"uniques": ["[+1 Production] for each adjacent [Clay Pit]"],
+		"uniques": ["[+1 Production] for each adjacent [Clay Pit]","Irremovable"],
 	},
 	{
 		"name": "Harbor",
 		"terrainsCanBeBuiltOn": ["Coast"],
 		"production": 1,
-		"uniques": ["[+1 Production] for each adjacent [Fishing Boat]"],
+		"uniques": ["[+1 Production] for each adjacent [Fishing Boat]","Irremovable"],
 	},
 	// Misc
 	{
