@@ -43,6 +43,6 @@
     "innerColor": [1,42,108],
     "outerColor": [234,225,158],
     "uniqueName": "Keju",
-    "cities": ["Chang'an"],
+    "cities": ["Chang'an","Luoyang","Linzi","Chengdu","Huaiyang","Liangzhou"],
   }
 ]
