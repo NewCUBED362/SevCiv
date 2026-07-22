@@ -48,6 +48,10 @@
                "Anyi","Bingzhou","Jianye","Baqiu","Qufu","Dunhuang","Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou"],
   },
     // Independent Peoples
+
+  // Make sure to equal the city states!!
+  // Antiquity: 2, Exploration: 3, Modern: 1.
+  
   {
     "name": "Phoenicia",
     "cityStateType": "Economic",
@@ -107,5 +111,17 @@
     "innerColor": [249,249,249],
     "outerColor": [0,0,0],
     "cities": ["Istanbul"],
+  },
+  {
+    "name": "Afghanistan",
+    "cityStateType": "Expansionist", // Change to militaristic later
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "This isn't how it is supposed to be!",
+
+    "innerColor": [249,249,249],
+    "outerColor": [0,0,0],
+    "cities": ["Herat"],
   }
 ]
