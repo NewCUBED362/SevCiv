@@ -16,10 +16,12 @@
   },
   {
     "name": "Scout",
-    "unitType": "Civilian",
+    "unitType": "Support",
     "cost": 30,
     "movement": 2,
-    "uniques": ["Ignores terrain cost","Can see over obstacles"],
+	"strength": 20,
+    "uniques": ["Ignores terrain cost","Can see over obstacles",
+	            "Cannot attack"],
   },
   {
 	"name": "Work Boats",
