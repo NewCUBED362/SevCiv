@@ -29,6 +29,12 @@
 		"food": 1,
 		"uniques": ["[+1 Food] for each adjacent [Farm]"],
 	},
+	{
+		"name": "Harbor",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"production": 1,
+		"uniques": ["[+1 Production] for each adjacent [Fishing Boat]"],
+	},
 	// Misc
 	{
 		"name": "City ruins",
