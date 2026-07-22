@@ -16,6 +16,10 @@
     "movementType": "Land",
   },
   {
+    "name": "Archery",
+    "movementType": "Land",
+  },
+  {
     "name": "Ranged Water",
     "movementType": "Water",
   }
