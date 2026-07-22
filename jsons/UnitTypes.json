@@ -10,5 +10,9 @@
   {
     "name": "Blunt",
     "movementType": "Land",
+  },
+  {
+    "name": "Ranged Water",
+    "movementType": "Water",
   }
 ]
