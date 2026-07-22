@@ -52,9 +52,9 @@
     "name": "Phoenicia",
     "cityStateType": "Economic",
 
-    "declaringWar": "One must know when one can fight. And now we can.",
-    "attacked": "Heaven is against you. you shall see.",
-    "defeated": "Death! What a blessing! The righteous man can rest, and villains' tricks end.",
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "We never fully trusted you from the start.",
 
     "innerColor": [110,60,50],
     "outerColor": [0,0,0],
