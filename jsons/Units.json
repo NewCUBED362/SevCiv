@@ -10,7 +10,7 @@
   {
     "name": "Worker",
     "unitType": "Civilian",
-    "cost": 40,
+    "cost": 30,
     "movement": 2,
     "uniques": ["Can build [Improvement] improvements on tiles"],
   },
@@ -25,9 +25,9 @@
   {
     "name": "Warrior",
     "unitType": "Blunt",
-    "cost": 40,
+    "cost": 30,
     "movement": 2,
-    "strength": 15,
+    "strength": 20,
   },
   {
     "name": "Galley",
