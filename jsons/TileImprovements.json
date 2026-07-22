@@ -21,6 +21,7 @@
 		"name": "Granary",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
 		"food": 1,
+		"uniques": ["[+1 Food] for each adjacent [Farm]"],
 	},
 	// Misc
 	{
