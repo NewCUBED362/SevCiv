@@ -49,6 +49,13 @@
 	"requiredTech": "Sailing",
 	"uniques": ["Cannot enter ocean tiles"],
 	"attackSound": "arrow",
+  },
+  {
+    "name": "Slinger",
+    "unitType": "Sword",
+    "cost": 30,
+    "movement": 2,
+    "strength": 20,
   }
 ]
     
