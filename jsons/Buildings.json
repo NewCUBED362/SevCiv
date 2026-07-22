@@ -19,5 +19,11 @@
 		"cost": 55,
 		"requiredTech": "Agriculture",
 		"uniques": ["Creates a [Granary] improvement on a specific tile"],
+	},
+	{
+		"name": "Harbor District",
+		"cost": 55,
+		"requiredTech": "Sailing",
+		"uniques": ["Creates a [Harbor] improvement on a specific tile"],
 	}
 ]
