@@ -9,6 +9,12 @@
 		            "[+5 Food, +5 Production, +5 Happiness] <during the [Antiquity Age]>"]
 	},
 	{
+		"name": "Brickyard District",
+		"cost": 55,
+		"requiredTech": "Pottery",
+		"uniques": ["Creates a [Brickyard] improvement on a specific tile"],
+	},
+	{
 		"name": "Fishing Quay District",
 		"cost": 55,
 		"requiredTech": "Agriculture",
