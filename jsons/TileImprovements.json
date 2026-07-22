@@ -1,6 +1,12 @@
 [
 	// Tile Improvements
 	{
+		"name": "Clay Pit",
+		"turnsToBuild": 5,
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "C"
+	},
+	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
 		"food": 1,
