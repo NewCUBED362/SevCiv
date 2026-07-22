@@ -59,5 +59,17 @@
     "innerColor": [247,214,1],
     "outerColor": [0,0,0],
     "cities": ["Tyre"],
+  },
+  {
+    "name": "Toltecs",
+    "cityStateType": "Cultural",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "We never fully trusted you from the start.",
+
+    "innerColor": [247,214,1],
+    "outerColor": [0,0,0],
+    "cities": ["Tollan-Xicocotitlan"],
   }
 ]
