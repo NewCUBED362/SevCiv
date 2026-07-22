@@ -24,7 +24,7 @@
   },
   {
     "name": "Warrior",
-    "unitType": "Blunt",
+    "unitType": "Sword",
     "cost": 30,
     "movement": 2,
     "strength": 20,
