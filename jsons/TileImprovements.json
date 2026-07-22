@@ -3,7 +3,8 @@
 	{
 		"name": "Clay Pit",
 		"turnsToBuild": 5,
-		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]",
+		            "[+1 Production] <after discovering [Pottery]>"],
 		"shortcutKey": "C"
 	},
 	{
