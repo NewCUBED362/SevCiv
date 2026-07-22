@@ -1,11 +1,31 @@
 [
     {
+        "name": "Economic",
+        "friendBonusUniques": [
+            "[+3 Gold]"
+        ],
+        "allyBonusUniques": [
+            "[+6 Gold]"
+        ],
+        "color": [139, 96, 255]
+    },
+    {
         "name": "Cultured",
         "friendBonusUniques": [
             "[+3 Culture]"
         ],
         "allyBonusUniques": [
             "[+6 Culture]"
+        ],
+        "color": [139, 96, 255]
+    },
+    {
+        "name": "Scientific",
+        "friendBonusUniques": [
+            "[+3 Science]"
+        ],
+        "allyBonusUniques": [
+            "[+6 Science]"
         ],
         "color": [139, 96, 255]
     }
