@@ -46,5 +46,17 @@
     "cities": ["Chang'an","Luoyang","Linzi","Chengdu","Huaiyang","Liangzhou","Jinyang","Handan","Pengcheng","Ji","Guangling","Xuchang",
                "Xingyang","Shouchun","Linxiang","Dingtao","Nanjun","Nanchang","Yangqu","Hefei","Nanzheng","Ye","Didao","Panyu",
                "Anyi","Bingzhou","Jianye","Baqiu","Qufu","Dunhuang","Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou"],
+  },
+    // Independent Peoples
+  {
+    "name": "Pho",
+
+    "declaringWar": "One must know when one can fight. And now we can.",
+    "attacked": "Heaven is against you. you shall see.",
+    "defeated": "Death! What a blessing! The righteous man can rest, and villains' tricks end.",
+
+    "innerColor": [110,60,50],
+    "outerColor": [220,200,100],
+    "cities": ["Tired"],
   }
 ]
