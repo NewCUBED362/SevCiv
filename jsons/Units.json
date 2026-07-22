@@ -19,7 +19,7 @@
     "unitType": "Civilian",
     "cost": 30,
     "movement": 2,
-    "uniques": ["Can build [Improvement] improvements on tiles"],
+    "uniques": ["Ignores terrain cost","Can see over obstacles"],
   },
   {
 	"name": "Work Boats",
