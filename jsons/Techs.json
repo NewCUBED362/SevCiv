@@ -24,6 +24,7 @@
          "row": 1,
          "cost": 70,
          "prerequisites": ["Agriculture"],
+         "quote": "'The fair breeze blew, the white foam flew, the furrow followed free; we were the first that ever burst into that silent sea.' - Samuel Taylor Coleridge.",
          "uniques": ["Enables embarkation for land units"],
        },
        {
