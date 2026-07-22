@@ -95,5 +95,17 @@
     "innerColor": [0,79,206],
     "outerColor": [0,0,0],
     "cities": ["Thang Long"],
+  },
+  {
+    "name": "The Ottomans",
+    "cityStateType": "Expansionist",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "This isn't how it is supposed to be!",
+
+    "innerColor": [0,79,206],
+    "outerColor": [0,0,0],
+    "cities": ["Istanbul"],
   }
 ]
