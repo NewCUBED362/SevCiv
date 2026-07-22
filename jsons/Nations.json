@@ -92,7 +92,7 @@
     "attacked": "Very well, this shall not be forgotten.",
     "defeated": "This isn't how it is supposed to be!",
 
-    "innerColor": [0,79,206],
+    "innerColor": [182,128,230],
     "outerColor": [0,0,0],
     "cities": ["Thang Long"],
   },
