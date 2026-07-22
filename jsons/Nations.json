@@ -68,7 +68,7 @@
     "attacked": "Very well, this shall not be forgotten.",
     "defeated": "This isn't how it is supposed to be!",
 
-    "innerColor": [247,214,1],
+    "innerColor": [109,0,205],
     "outerColor": [0,0,0],
     "cities": ["Tollan-Xicocotitlan"],
   }
