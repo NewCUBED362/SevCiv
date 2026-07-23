@@ -11,6 +11,17 @@
 					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
 					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]
 	},
+	{
+		"name": "Llamas",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Forest","Jungle","Grassland"], // Tundra only if lowland
+		"happiness": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1, "happiness": 3},
+		"uniques": ["Generated on every [25] tiles <in [{Plains} {Forest}] tiles>",
+					"Generated on every [25] tiles <in [{Grassland} {Forest}] tiles>",
+					"Generated on every [16] tiles <in [{Grassland} {Jungle}] tiles>"],
+	},
   // Luxury resources
 	{
 		"name": "Horses",
