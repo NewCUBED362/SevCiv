@@ -63,6 +63,12 @@
 		"production": 1,
 		"uniques": ["Irremovable"],
 	},
+	// Wonders
+	{
+		"name": "Hanging Gardens",
+		"terrainsCanBeBuiltOn": ["River"],
+		"uniques": ["Irremovable"],
+	},
 	// Misc
 	{
 		"name": "City ruins",
