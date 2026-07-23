@@ -44,6 +44,9 @@
     "leaderName": "Confucius",
     "startBias": ["Grassland"],
 
+    "startIntroPart1": "Master Kong, you gave guidance to rulers when they were lost. Now, wise one, the world is again in need of your guidance. Help us to temper duty with benevolence; help us to see with wisdom and propriety. Where the darkness of ignorance falls, lead us in the righteous path.",
+    "startIntroPart2": "Forged from the legacies of the militaristic Qin and the cultured Zhou, the Han Dynasty of China rules with righteousness tempered with benevolence, with wisdom informed by tradition. Han engineers transformed the land, even as Han philosophers transformed the mind. Go now, and take up the Mandate of Heaven.",
+
     "declaringWar": "One must know when one can fight. And now we can.",
     "attacked": "Heaven is against you. you shall see.",
     "defeated": "Death! What a blessing! The righteous man can rest, and villains' tricks end.",
