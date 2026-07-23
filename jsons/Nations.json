@@ -45,8 +45,8 @@
     "defeated": "Death! What a blessing! The righteous man can rest, and villains' tricks end.",
     "introduction": "Have you come to me, Kong Fu Zi, seeking knowledge? That already is knowledge.",
 
-    "innerColor": [110,60,50],
-    "outerColor": [220,200,100],
+    "innerColor": [202,20,20],
+    "outerColor": [234,225,157],
     "uniqueName": "Keju",
     "cities": ["Chang'an","Luoyang","Linzi","Chengdu","Huaiyang","Liangzhou","Jinyang","Handan","Pengcheng","Ji","Guangling","Xuchang",
                "Xingyang","Shouchun","Linxiang","Dingtao","Nanjun","Nanchang","Yangqu","Hefei","Nanzheng","Ye","Didao","Panyu",
