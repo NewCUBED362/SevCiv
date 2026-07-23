@@ -58,6 +58,7 @@
 	{
 		"name": "Hanging Gardens Wonder",
 		"cost": 275,
+		"isWonder": true,
 		"requiredTech": "Irrigation",
 		"uniques": ["Creates a [Hanging Gardens] improvement on a specific tile"],
 	}
