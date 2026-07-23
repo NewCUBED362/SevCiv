@@ -67,7 +67,7 @@
 	{
 		"name": "Hanging Gardens",
 		"terrainsCanBeBuiltOn": ["River"],
-		"uniques": ["Irremovable"],
+		"uniques": ["Great Improvement","Irremovable"],
 	},
 	// Misc
 	{
