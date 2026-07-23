@@ -16,5 +16,6 @@
 		"name": "Codex",
 		"resourceType": "Strategic",
 		"science": 2,
+		"uniques": ["Comment [Great Work]"],
 	}
 ]
