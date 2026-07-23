@@ -21,7 +21,7 @@
 	// Districts
 	{
 		"name": "Brickyard",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra","Forest"],
 		"production": 1,
 		"uniques": ["[+1 Production] for each adjacent [Clay Pit]","Irremovable"],
 	},
@@ -32,8 +32,15 @@
 		"uniques": ["Irremovable"],
 	},
 	{
+		"name": "Garden",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra","Forest"],
+		"food": 3,
+		"happiness": 2,
+		"uniques": ["[+1 Food] for each adjacent [Farm]","Irremovable"],
+	},
+	{
 		"name": "Granary",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra","Forest"],
 		"food": 1,
 		"uniques": ["[+1 Food] for each adjacent [Farm]","Irremovable"],
 	},
@@ -45,13 +52,13 @@
 	},
 	{
 		"name": "Library",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra","Forest"],
 		"science": 3,
 		"uniques": ["[+1 Science] for each adjacent [resource]","Irremovable"],
 	},
 	{
 		"name": "Saw Pit",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra","Forest"],
 		"production": 1,
 		"uniques": ["Irremovable"],
 	},
