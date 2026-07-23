@@ -2,7 +2,7 @@
 	// Tile Improvements
 	{
 		"name": "Clay Pit",
-		"turnsToBuild": 5,
+		"turnsToBuild": 8,
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]",
 		            "[+1 Production] <after discovering [Pottery]>"],
 		"shortcutKey": "C"
@@ -11,12 +11,18 @@
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
 		"food": 1,
-		"turnsToBuild": 5,
+		"turnsToBuild": 8,
 	},
 	{
 		"name": "Fishing Boat",
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
 		"uniques": ["[+1 Food] for each adjacent [Fishing Quay]"],
+	},
+	{
+		"name": "Pasture",
+		"turnsToBuild": 8,
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "P"
 	},
 	// Districts
 	{
