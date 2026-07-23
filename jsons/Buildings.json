@@ -60,6 +60,8 @@
 		"cost": 275,
 		"isWonder": true,
 		"requiredTech": "Irrigation",
-		"uniques": ["Creates a [Hanging Gardens] improvement on a specific tile"],
+		"uniques": ["Creates a [Hanging Gardens] improvement on a specific tile",
+		            "[+1 Food] from [Farm] tiles <in this city>",
+		            "[+10]% growth [in all cities]"],
 	}
 ]
