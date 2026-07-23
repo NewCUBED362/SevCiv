@@ -37,7 +37,7 @@
 		"food": 3,
 		"happiness": 2,
 		"uniques": ["[+1 Food] for each adjacent [Coast]","[+1 Food] for each adjacent [River]",
-			        "Irremovable"],
+			        "[+1 Food] for each adjacent [Great Improvement]","Irremovable"],
 	},
 	{
 		"name": "Granary",
