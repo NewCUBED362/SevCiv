@@ -4,6 +4,9 @@
     "leaderName": "Augustus",
     "startBias": ["Grassland"],
 
+    "startIntroPart1": "First among equals, Augustus Caesar claims his right. You, who never call yourself Emperor, are revered by your people as a god. The world now is disorder; you will give it form. The world is leaderless; you will provide it direction. Set the laurels on your head and issue your commands - lead your people to glory, and your name will become synonymous with rule.",
+    "startIntroPart2": "Rome: a name synonymous with power. Legend has it that the first Romans were raised by wolves. Seeing the debates in the Senate, the achingly straight Roman roads, and the well-ordered legions, one might doubt this. Seeing the light of ambition in Roman eyes, one does not. Raise the eagle standard, and let the world know the glory that is Rome.",
+
     "declaringWar": "The die is cast.",
     "attacked": "Come, break your swords on our walls.",
     "defeated": "Have I played the part well? Then, I exit.",
