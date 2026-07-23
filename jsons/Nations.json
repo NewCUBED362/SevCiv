@@ -13,7 +13,7 @@
     "outerColor": [212,20,21],
     "uniqueName": "Imperium Maius",
     "uniques": ["Comment [---Imperium Maius---]",
-                "[+2 Production] [in capital] <for every [Cities]>"],
+                "[+2 Production] [in capital] <for every [Cities]>","[-2 Production] [in capital] <hidden from users>"],
     "cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii","Catana","Burdigala",
                "Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima","Mogontiacum","Londinium",
                "Caesaraugusta","Sarmizegetusa","Hispalis","Iader","Eboracum","Vindobona","Olisipo","Volubilis","Lutetia","Caralis"],
