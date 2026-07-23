@@ -35,6 +35,12 @@
 		            "Can only be built <in [Coastal] cities>"],
 	},
 	{
+		"name": "Library District",
+		"cost": 90,
+		"requiredTech": "Writing",
+		"uniques": ["Creates a [Library] improvement on a specific tile"],
+	},
+	{
 		"name": "Saw Pit District",
 		"cost": 55,
 		"requiredTech": "Animal Husbandry",
