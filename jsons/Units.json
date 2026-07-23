@@ -6,7 +6,7 @@
     "movement": 3,
     "uniques": ["Founds a new city",
                 "Requires at least [2] population",
-	            "[1] Sight"],
+	            "[-1] Sight"],
   },
   {
     "name": "Worker",
