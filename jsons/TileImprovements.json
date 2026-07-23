@@ -36,7 +36,8 @@
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra","Forest"],
 		"food": 3,
 		"happiness": 2,
-		"uniques": ["[+1 Food] for each adjacent [Farm]","Irremovable"],
+		"uniques": ["[+1 Food] for each adjacent [Coast]","[+1 Food] for each adjacent [River]",
+			        "Irremovable"],
 	},
 	{
 		"name": "Granary",
