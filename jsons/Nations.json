@@ -52,6 +52,7 @@
     "innerColor": [202,20,20],
     "outerColor": [234,225,157],
     "uniqueName": "Keju",
+    "uniques": ["Comment [---Keju---]","[+25]% growth [in all cities]"],
     "cities": ["Chang'an","Luoyang","Linzi","Chengdu","Huaiyang","Liangzhou","Jinyang","Handan","Pengcheng","Ji","Guangling","Xuchang",
                "Xingyang","Shouchun","Linxiang","Dingtao","Nanjun","Nanchang","Yangqu","Hefei","Nanzheng","Ye","Didao","Panyu",
                "Anyi","Bingzhou","Jianye","Baqiu","Qufu","Dunhuang","Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou"],
