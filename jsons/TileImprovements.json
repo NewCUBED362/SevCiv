@@ -47,7 +47,7 @@
 		"name": "Library",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra"],
 		"science": 3,
-		"uniques": ["[+1 Science] for each adjacent [Bonus Resource]","Irremovable"],
+		"uniques": ["[+1 Science] for each adjacent [resource]","Irremovable"],
 	},
 	{
 		"name": "Saw Pit",
