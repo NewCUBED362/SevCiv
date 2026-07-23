@@ -24,6 +24,9 @@
     "leaderName": "Benjamin Franklin",
     "startBias": ["Hill","River"],
 
+    "startIntroPart1": "Writer, printer, and inventor, you offer your counsel to all who ask - and many who do not. With your dry wit and keen mind, you challenge the injustice of foreign rule and set your inventive mind towards building a nation based on principled rationality. Benjamin Franklin, bring your sound advice, and let us ensure that the sun rises on your people.",
+    "startIntroPart2": "Built on steam, on iron, and on a vision that looks relentlessly ahead, America surges forward. The brave new world unrolls from factory assembly lines, on rail tracks that extend across the plains, and in the eyes of each immigrant who sets foot upon its shores. Come, and dream anew, under the stars and stripes.",
+
     "declaringWar": "War is always tragedy, the more so that you have forced our hand into this.",
     "attacked": "So you would waste all the industry of your people on death.",
     "defeated": "What use are tools without a project? Of what use is a mind without ideas? I shall set these down and move on.",
