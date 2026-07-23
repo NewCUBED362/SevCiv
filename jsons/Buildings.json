@@ -37,6 +37,7 @@
 	{
 		"name": "Library District",
 		"cost": 90,
+		"maintenance": 2,
 		"requiredTech": "Writing",
 		"uniques": ["Creates a [Library] improvement on a specific tile"],
 	},
