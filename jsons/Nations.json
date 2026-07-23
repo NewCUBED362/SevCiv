@@ -34,6 +34,7 @@
   {
     "name": "The Han",
     "leaderName": "Confucius",
+    "startBias": ["Grassland"],
 
     "declaringWar": "One must know when one can fight. And now we can.",
     "attacked": "Heaven is against you. you shall see.",
