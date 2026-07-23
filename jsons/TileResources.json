@@ -11,4 +11,10 @@
 					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
 					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]
 	},
+  // Great Works
+	{
+		"name": "Codex",
+		"resourceType": "Strategic",
+		"science": 2,
+	}
 ]
