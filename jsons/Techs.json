@@ -61,7 +61,7 @@
          "name": "Writing Mastery",
          "row": 4,
          "cost": 125,
-         "uniques": ["Only available <after discovering [Writing]>"],
+         "uniques": ["Provides [1] [Codex]","Only available <after discovering [Writing]>"],
        },
        {
          "name": "Irrigation",
