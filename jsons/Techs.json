@@ -55,6 +55,7 @@
          "row": 3,
          "cost": 125,
          "prerequisites": ["Pottery"],
+         "uniques": ["Enables conversion of city production to [Science]"],
        },
        {
          "name": "Writing Mastery",
