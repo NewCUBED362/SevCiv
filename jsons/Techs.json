@@ -55,6 +55,7 @@
          "row": 3,
          "cost": 125,
          "prerequisites": ["Pottery"],
+         "quote": "'The spoken word conquers all thought, but the written word commands it.' - Walter Benjamin.",
          "uniques": ["Enables conversion of city production to [Science]"],
        },
        {
