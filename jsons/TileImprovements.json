@@ -49,7 +49,8 @@
 		"name": "Granary",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Desert","Tundra","Forest"],
 		"food": 1,
-		"uniques": ["[+1 Food] for each adjacent [Farm]","Irremovable"],
+		"uniques": ["[+1 Food] for each adjacent [Farm]","[+1 Food] for each adjacent [Pasture]",
+			        "Irremovable"],
 	},
 	{
 		"name": "Harbor",
