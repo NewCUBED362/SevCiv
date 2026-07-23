@@ -2,6 +2,7 @@
   {
     "name": "Rome",
     "leaderName": "Augustus",
+    "startBias": ["Grassland"],
 
     "declaringWar": "The die is cast.",
     "attacked": "Come, break your swords on our walls.",
@@ -18,6 +19,7 @@
   {
     "name": "America",
     "leaderName": "Benjamin Franklin",
+    "startBias": ["Hill","River"],
 
     "declaringWar": "War is always tragedy, the more so that you have forced our hand into this.",
     "attacked": "So you would waste all the industry of your people on death.",
