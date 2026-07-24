@@ -27,6 +27,9 @@
 		"cost": 90,
 		"maintenance": 2,
 		"requiredTech": "Irrigation",
+		"uniques": ["[+1 Food] in cities on [Coastal] tiles",
+			        "[+1 Food] from all [Wonder] buildings <in this city>",
+			        "[+1 Food] in cities on [River] tiles"],
 	},
 	{
 		"name": "Granary",
