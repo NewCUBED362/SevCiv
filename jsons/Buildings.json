@@ -54,6 +54,14 @@
 		"requiredTech": "Animal Husbandry",
 		"uniques": ["Creates a [Saw Pit] improvement on a specific tile"],
 	},
+	{
+		"name": "Ancient Walls",
+		"cost": 60,
+		"requiredTech": "Masonry",
+		"cityStrength": 5,
+		"cityHealth": 50,
+	},
+
   // Wonders
 	{
 		"name": "Hanging Gardens Wonder",
