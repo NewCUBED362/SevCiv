@@ -9,47 +9,47 @@
 		            "[+5 Food, +5 Production, +5 Happiness] <during the [Antiquity Age]>"]
 	},
 	{
-		"name": "Brickyard District",
+		"name": "Brickyard",
 		"cost": 55,
 		"requiredTech": "Pottery",
 		"uniques": ["Creates a [Brickyard] improvement on a specific tile"],
 	},
 	{
-		"name": "Fishing Quay District",
+		"name": "Fishing Quay",
 		"cost": 55,
 		"requiredTech": "Agriculture",
 		"uniques": ["Creates a [Fishing Quay] improvement on a specific tile",
 		            "Can only be built <in [Coastal] cities>"],
 	},
 	{
-		"name": "Garden District",
+		"name": "Garden",
 		"cost": 90,
 		"maintenance": 2,
 		"requiredTech": "Irrigation",
 		"uniques": ["Creates a [Garden] improvement on a specific tile"],
 	},
 	{
-		"name": "Granary District",
+		"name": "Granary",
 		"cost": 55,
 		"requiredTech": "Agriculture",
 		"uniques": ["Creates a [Granary] improvement on a specific tile"],
 	},
 	{
-		"name": "Harbor District",
+		"name": "Harbor",
 		"cost": 55,
 		"requiredTech": "Sailing",
 		"uniques": ["Creates a [Harbor] improvement on a specific tile",
 		            "Can only be built <in [Coastal] cities>"],
 	},
 	{
-		"name": "Library District",
+		"name": "Library",
 		"cost": 90,
 		"maintenance": 2,
 		"requiredTech": "Writing",
 		"uniques": ["Creates a [Library] improvement on a specific tile"],
 	},
 	{
-		"name": "Saw Pit District",
+		"name": "Saw Pit",
 		"cost": 55,
 		"requiredTech": "Animal Husbandry",
 		"uniques": ["Creates a [Saw Pit] improvement on a specific tile"],
@@ -64,7 +64,7 @@
 
   // Wonders
 	{
-		"name": "Hanging Gardens Wonder",
+		"name": "Hanging Gardens",
 		"cost": 275,
 		"isWonder": true,
 		"requiredTech": "Irrigation",
