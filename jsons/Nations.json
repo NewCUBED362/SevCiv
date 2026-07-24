@@ -61,7 +61,8 @@
     "outerColor": [234,225,157],
     "uniqueName": "Dhammaraja",
     "uniques": ["Comment [---Dhammaraja---]","[+25]% growth [in all cities]"],
-    "cities": ["Pataliputra"],
+    "cities": ["Pataliputra","Ujjayini","Tosali","Suvarnagiri","Taksasila","Kausambi","Samapa","Risila","Pudanagala","Girinagara",
+               "Sopara"],
   },
   {
     "name": "The Han",
