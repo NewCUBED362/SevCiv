@@ -56,6 +56,13 @@
 		"requiredTech": "Writing",
 	},
 	{
+		"name": "Monument",
+		"culture": 3,
+		"cost": 90,
+		"maintenance": 2,
+		"requiredTech": "Masonry",
+	},
+	{
 		"name": "Saw Pit",
 		"production": 1,
 		"cost": 55,
