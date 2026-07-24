@@ -43,12 +43,14 @@
 	},
 	{
 		"name": "Harbor",
+		"production": 1,
 		"cost": 55,
 		"requiredTech": "Sailing",
 		"uniques": ["Can only be built <in [Coastal] cities>"],
 	},
 	{
 		"name": "Library",
+		"science": 3,
 		"cost": 90,
 		"maintenance": 2,
 		"requiredTech": "Writing",
