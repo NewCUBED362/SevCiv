@@ -61,6 +61,7 @@
 		"cost": 90,
 		"maintenance": 2,
 		"requiredTech": "Masonry",
+		"uniques": ["[+1 Culture] from [Mountain] tiles [in this city]"],
 	},
 	{
 		"name": "Saw Pit",
