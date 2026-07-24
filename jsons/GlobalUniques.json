@@ -3,6 +3,7 @@
     "uniques": [
         "[-100]% unhappiness from the number of cities",
         "[-50]% Unhappiness from [Population] [in all cities]",
-        "[+3 Culture] [in all cities]"
+        "[+1 Culture] [in all cities]",
+        "[+1 Culture] per [3] population [in all cities]"
     ]
 }
