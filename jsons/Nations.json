@@ -38,7 +38,7 @@
     "innerColor": [249,249,249],
     "outerColor": [120,0,0],
     "uniqueName": "The First American",
-    "uniques": ["Comment [---The First American---]","Comment [+2 Science per Age on Production Buildings and Science Buildings in Cities.]",
+    "uniques": ["Comment [---The First American---]","Comment [+1 Science per Age on Production Buildings and Science Buildings in Cities]",
                 "[+1 Science] from all [Science] buildings <for every [Era number]> <hidden from users>","[+1 Science] from all [Production] buildings <for every [Era number]> <hidden from users>"],
     "cities": ["Washington","New York","Philadelphia","Baltimore","Boston","Chicago","New Orleans","St. Louis","Cincinnati","Cleveland",
                "Pittsburgh","Buffalo","San Francisco","Detroit","Charleston","Albany","Newark","Providence","Milwaukee","Los Angeles",
