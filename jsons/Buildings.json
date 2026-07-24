@@ -15,6 +15,7 @@
 	},
 	{
 		"name": "Fishing Quay",
+		"food": 2,
 		"cost": 55,
 		"requiredTech": "Agriculture",
 		"uniques": ["Can only be built <in [Coastal] cities>"],
@@ -27,6 +28,7 @@
 	},
 	{
 		"name": "Granary",
+		"food": 1,
 		"cost": 55,
 		"requiredTech": "Agriculture",
 		"uniques": ["Creates a [Granary] improvement on a specific tile"],
