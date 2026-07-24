@@ -22,6 +22,8 @@
 	},
 	{
 		"name": "Garden",
+		"food": 3,
+		"happiness": 2,
 		"cost": 90,
 		"maintenance": 2,
 		"requiredTech": "Irrigation",
@@ -48,6 +50,7 @@
 	},
 	{
 		"name": "Saw Pit",
+		"production": 1,
 		"cost": 55,
 		"requiredTech": "Animal Husbandry",
 	},
