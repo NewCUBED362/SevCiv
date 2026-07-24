@@ -68,6 +68,7 @@
          "name": "Irrigation",
          "row": 6,
          "cost": 125,
+         "qoute": "'The essence of all beings is the earth; the earth, water; the water, plants; plants, man; and man, speech.' - The Upanishads.",
          "prerequisites": ["Pottery","Animal Husbandry"],
        },
        {
