@@ -81,7 +81,8 @@
          "name": "Masonry Mastery",
          "row": 8,
          "cost": 125,
-         "uniques": ["Only available <after discovering [Masonry]>"],
+         "uniques": ["[+3] Strength <for [Military] units> <when fighting in [Fort] tiles>","Provides [1] [Codex]",
+                     "Only available <after discovering [Masonry]>"],
        }
     ]
   },
