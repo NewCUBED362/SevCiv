@@ -57,8 +57,8 @@
     "defeated": "Open the Netherworld so that I may see my father Osiris and drive away darkness, for I am beloved of him. All you spirits, prepare a path for me.",
     "introduction": "I am Horus in human flesh — Hatshepsut, pharaoh of the red lands and the black lands.",
 
-    "innerColor": [249,249,249],
-    "outerColor": [120,0,0],
+    "innerColor": [1,78,81],
+    "outerColor": [234,225,157],
     "uniqueName": "God's Wife of Amun",
     "uniques": ["Comment [---God's Wife of Amun---]","Comment [+1 Science per Age on Production Buildings and Science Buildings in Cities]",
                 "[+1 Science] from all [Science] buildings <for every [Era number]> <hidden from users>","[+1 Science] from all [Production] buildings <for every [Era number]> <hidden from users>"],
