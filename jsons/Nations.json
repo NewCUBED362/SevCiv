@@ -57,8 +57,8 @@
     "defeated": "And now, the burning wheel passes over me.",
     "introduction": "I am Ashoka, the great king at the center of the world, and profound sinner.",
 
-    "innerColor": [202,20,20],
-    "outerColor": [234,225,157],
+    "innerColor": [125,236,227],
+    "outerColor": [56,0,101],
     "uniqueName": "Dhammaraja",
     "uniques": ["Comment [---Dhammaraja---]","[+25]% growth [in all cities]"],
     "cities": ["Pataliputra","Ujjayini","Tosali","Suvarnagiri","Taksasila","Kausambi","Samapa","Risila","Pudanagala","Girinagara",
