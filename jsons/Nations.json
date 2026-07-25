@@ -45,6 +45,26 @@
                "Salem","Louisville","Richmond","Norfolk","Minneapolis","Jersey City","Newport","Newburyport","Indianapolis"],
   },
   {
+    "name": "Egypt",
+    "leaderName": "Hatshepsut",
+    "startBias": ["Desert","River"],
+
+    "startIntroPart1": "Writer, printer, and inventor, you offer your counsel to all who ask - and many who do not. With your dry wit and keen mind, you challenge the injustice of foreign rule and set your inventive mind towards building a nation based on principled rationality. Benjamin Franklin, bring your sound advice, and let us ensure that the sun rises on your people.",
+    "startIntroPart2": "Built on steam, on iron, and on a vision that looks relentlessly ahead, America surges forward. The brave new world unrolls from factory assembly lines, on rail tracks that extend across the plains, and in the eyes of each immigrant who sets foot upon its shores. Come, and dream anew, under the stars and stripes.",
+
+    "declaringWar": "War is always tragedy, the more so that you have forced our hand into this.",
+    "attacked": "So you would waste all the industry of your people on death.",
+    "defeated": "What use are tools without a project? Of what use is a mind without ideas? I shall set these down and move on.",
+    "introduction": "Greetings! I am Benjamin Franklin, doctor, scientist, writer, and full of advice, whether you will listen or not.",
+
+    "innerColor": [249,249,249],
+    "outerColor": [120,0,0],
+    "uniqueName": "God's Wife of Amun",
+    "uniques": ["Comment [---God's Wife of Amun---]","Comment [+1 Science per Age on Production Buildings and Science Buildings in Cities]",
+                "[+1 Science] from all [Science] buildings <for every [Era number]> <hidden from users>","[+1 Science] from all [Production] buildings <for every [Era number]> <hidden from users>"],
+    "cities": ["Waset"],
+  },
+  {
     "name": "Maurya",
     "leaderName": "Ashoka",
     "startBias": ["Forest","Jungle"],
