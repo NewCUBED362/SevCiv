@@ -62,7 +62,8 @@
     "uniqueName": "God's Wife of Amun",
     "uniques": ["Comment [---God's Wife of Amun---]","Comment [+1 Science per Age on Production Buildings and Science Buildings in Cities]",
                 "[+1 Science] from all [Science] buildings <for every [Era number]> <hidden from users>","[+1 Science] from all [Production] buildings <for every [Era number]> <hidden from users>"],
-    "cities": ["Waset","Men-nefer","Akhetaten","Djedet","Djanet","Behdet","Nekheb","Khemenu","Nekhen","Gebtu","Tjenu"],
+    "cities": ["Waset","Men-nefer","Akhetaten","Djedet","Djanet","Behdet","Nekheb","Khemenu","Nekhen","Gebtu","Tjenu","Per-Atum",
+               "Abdju","Zau","Ipu","Khito","Swenett","Per-Hathor","Abu","Hut-waret","Djerty"],
   },
   {
     "name": "Maurya",
