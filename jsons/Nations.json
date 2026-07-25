@@ -112,8 +112,20 @@
     // Independent Peoples
 
   // Make sure to equal the city states!!
-  // Antiquity: 2, Exploration: 3, Modern: 1.
-  
+  // Antiquity: 3, Exploration: 3, Modern: 1.
+
+  {
+    "name": "Sogdia",
+    "cityStateType": "Economic",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "We never fully trusted you from the start.",
+
+    "innerColor": [247,214,1],
+    "outerColor": [0,0,0],
+    "cities": ["Samarkand"],
+  },
   {
     "name": "Phoenicia",
     "cityStateType": "Economic",
