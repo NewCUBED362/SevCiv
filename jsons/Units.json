@@ -69,6 +69,8 @@
     "cost": 30,
     "movement": 2,
     "strength": 20,
+	"replaces": "Warrior",
+	"uniqueTo": "Egypt",
   }
 ]
     
