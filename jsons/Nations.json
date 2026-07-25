@@ -112,7 +112,7 @@
     // Independent Peoples
 
   // Make sure to equal the city states!!
-  // Antiquity: 4, Exploration: 4, Modern: 1.
+  // Antiquity: 5, Exploration: 4, Modern: 1.
 
   {
     "name": "Sogdia",
@@ -185,6 +185,18 @@
     "innerColor": [182,128,230],
     "outerColor": [0,0,0],
     "cities": ["Thang Long"],
+  },
+  {
+    "name": "The Hittites",
+    "cityStateType": "Expansionist",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "This isn't how it is supposed to be!",
+
+    "innerColor": [249,249,249],
+    "outerColor": [0,0,0],
+    "cities": ["Hattusa"],
   },
   {
     "name": "The Ottomans",
