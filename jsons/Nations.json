@@ -112,7 +112,7 @@
     // Independent Peoples
 
   // Make sure to equal the city states!!
-  // Antiquity: 5, Exploration: 4, Modern: 1.
+  // Antiquity: 5, Exploration: 4, Modern: 2.
 
   {
     "name": "Sogdia",
@@ -173,6 +173,18 @@
     "innerColor": [0,79,206],
     "outerColor": [0,0,0],
     "cities": ["Gaegyeong"],
+  },
+  {
+    "name": "Massina",
+    "cityStateType": "Diplomatic",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "This isn't how it is supposed to be!",
+
+    "innerColor": [182,128,230],
+    "outerColor": [0,0,0],
+    "cities": ["Hamdullahi"],
   },
   {
     "name": "Vietnam",
