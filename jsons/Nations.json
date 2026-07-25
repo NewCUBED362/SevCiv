@@ -112,7 +112,7 @@
     // Independent Peoples
 
   // Make sure to equal the city states!!
-  // Antiquity: 4, Exploration: 3, Modern: 1.
+  // Antiquity: 4, Exploration: 4, Modern: 1.
 
   {
     "name": "Sogdia",
@@ -139,7 +139,7 @@
     "cities": ["Tyre"],
   },
   {
-    "name": "Toltecs",
+    "name": "The Toltecs",
     "cityStateType": "Cultural",
 
     "declaringWar": "You leave us no choice. War it must be.",
@@ -197,6 +197,18 @@
     "innerColor": [249,249,249],
     "outerColor": [0,0,0],
     "cities": ["Istanbul"],
+  },
+  {
+    "name": "Srivijaya",
+    "cityStateType": "Expansionist",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "This isn't how it is supposed to be!",
+
+    "innerColor": [249,249,249],
+    "outerColor": [0,0,0],
+    "cities": ["Muara Jambi"],
   },
   {
     "name": "Afghanistan",
