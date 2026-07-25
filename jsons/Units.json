@@ -61,6 +61,14 @@
 	"range": 2,
 	"requiredTech": "Animal Husbandry",
 	"attackSound": "arrow",
+  },
+  // Unique Units
+  {
+    "name": "Medjay",
+    "unitType": "Sword",
+    "cost": 30,
+    "movement": 2,
+    "strength": 20,
   }
 ]
     
