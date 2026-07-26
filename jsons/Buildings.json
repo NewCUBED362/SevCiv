@@ -72,8 +72,9 @@
 		"gold": 3,
 		"cost": 90,
 		"requiredTech": "Currency",
-		"uniques": ["[+1 Gold] from [Mountain] tiles [in this city]",
-		            "[+1 Gold] from all [Wonder] buildings <in this city>"],
+		"uniques": ["[+1 Gold] from [Coastal] tiles [in this city]",
+			        "[+1 Gold] from all [Wonder] buildings <in this city>",
+			        "[+1 Gold] from [River] tiles [in this city]"],
 	},
 	{
 		"name": "Monument",
