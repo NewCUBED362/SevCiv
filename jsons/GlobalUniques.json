@@ -18,9 +18,10 @@
         "[-30]% [Science] [in all cities] <when below [-5] [Happiness]>",
         "[-40]% [Science] [in all cities] <when below [-7] [Happiness]>",
 
-        "Gain control over [2] tiles [in this city] <in cities with at least [2] [Population]>",
-        "Gain control over [2] tiles [in this city] <in cities with at least [3] [Population]>",
-        "Gain control over [2] tiles [in this city] <in cities with at least [4] [Population]>",
-        "Gain control over [2] tiles [in this city] <in cities with at least [5] [Population]>"
+        "[-10]% Culture cost of natural border growth [in all cities] <in cities with [2] [Population]>",
+        "[-20]% Culture cost of natural border growth [in all cities] <in cities with [3] [Population]>",
+        "[-30]% Culture cost of natural border growth [in all cities] <in cities with [4] [Population]>",
+        "[-40]% Culture cost of natural border growth [in all cities] <in cities with [5] [Population]>",
+        "[-50]% Culture cost of natural border growth [in all cities] <in cities with [6] [Population]>"
     ]
 }
