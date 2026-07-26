@@ -74,6 +74,17 @@
 	"requiredTech": "Bronze Working",
 	"attackSound": "metalhit",
   },
+  {
+    "name": "Archer",
+    "unitType": "Archery",
+    "cost": 50,
+    "movement": 2,
+    "strength": 10,
+	"rangedStrength": 20,
+	"range": 2,
+	"requiredTech": "Bronze Working",
+	"attackSound": "arrow",
+  },
   // Unique Units
   {
     "name": "Medjay",
