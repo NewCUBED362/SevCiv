@@ -100,6 +100,16 @@
 	},
 
   // Wonders
+
+	{
+		"name": "Colossus",
+		"cost": 375,
+		"isWonder": true,
+		"requiredTech": "Currency",
+		"quote": "'The canal-water gushes from above into the gardens; fragrance pervades the walkways, streams of water as numerous as the stars of heaven flow in the pleasure garden.' - Ashurbanipal.",
+		"uniques": ["[+1 Food] from [Farm] tiles <in this city>",
+		            "[+10]% growth [in all cities]"],
+	},
 	{
 		"name": "Hanging Gardens",
 		"cost": 275,
