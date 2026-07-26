@@ -39,6 +39,48 @@ ImprovementIcons/Saw Pit
   orig: 100, 100
   offset: 0, 0
   index: -1
+EmojiIcons/Culture
+  rotate: false
+  xy: 1676, 74
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Food
+  rotate: false
+  xy: 1748, 138
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Gold
+  rotate: false
+  xy: 1820, 202
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Happiness
+  rotate: false
+  xy: 1676, 16
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Production
+  rotate: false
+  xy: 1878, 202
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Science
+  rotate: false
+  xy: 1936, 202
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Clay Pit
   rotate: false
   xy: 112, 44
@@ -251,42 +293,42 @@ TileSets/FantasyHex/Tiles/City center-Antiquity Age
   index: -1
 TileSets/FantasyHex/Tiles/Clay
   rotate: false
-  xy: 1676, 96
+  xy: 1994, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Clay+Clay Pit
   rotate: false
-  xy: 1748, 160
+  xy: 84, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Llamas
   rotate: false
-  xy: 1820, 224
+  xy: 124, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Llamas+Pasture
   rotate: false
-  xy: 84, 4
+  xy: 164, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Wool
   rotate: false
-  xy: 1676, 60
+  xy: 204, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Wool+Pasture
   rotate: false
-  xy: 124, 4
+  xy: 244, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
