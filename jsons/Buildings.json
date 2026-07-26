@@ -108,8 +108,7 @@
 		"isWonder": true,
 		"requiredTech": "Currency",
 		"quote": "'He doth bestride the narrow world, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare.",
-		"uniques": ["[+1 Food] from [Farm] tiles <in this city>",
-		            "[+10]% growth [in all cities]"],
+		"uniques": ["Can only be built <in [Coastal] cities>"],
 	},
 	{
 		"name": "Hanging Gardens",
