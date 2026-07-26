@@ -6,9 +6,5 @@
   {
     "name": "Domination",
     "milestones": ["Destroy all players"],
-  },
-  {
-    "name": "Economic",
-    "milestones": ["Have more [Gold] than each player's [Gold] <upon discovering [Currency] technology>"],
   }
 ]
