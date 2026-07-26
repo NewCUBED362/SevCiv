@@ -3,7 +3,6 @@
     "uniques": [
         "[-100]% unhappiness from the number of cities",
         "[-50]% Unhappiness from [Population] [in all cities]",
-        "[+999]% Culture cost of natural border growth [in all cities]",
 
         "[-10]% [Production] [in all cities] <when below [-1] [Happiness]>",
         "[-20]% [Production] [in all cities] <when below [-3] [Happiness]>",
