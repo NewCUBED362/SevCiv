@@ -118,7 +118,8 @@
          "name": "Bronze Working Mastery",
          "row": 4,
          "cost": 255,
-         "uniques": ["Only available <after discovering [Bronze Working]>"],
+         "uniques": ["[+3] Strength <for [{Military} {Land}] units>","Provides [1] [Codex]",
+                     "Only available <after discovering [Bronze Working]>"],
        },
        {
          "name": "The Wheel",
