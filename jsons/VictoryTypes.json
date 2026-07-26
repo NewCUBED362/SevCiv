@@ -6,5 +6,9 @@
   {
     "name": "Domination",
     "milestones": ["Destroy all players"],
+  },
+  {
+    "name": "Economic",
+    "milestones": ["Destroy all players"],
   }
 ]
