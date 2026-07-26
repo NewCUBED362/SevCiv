@@ -98,7 +98,7 @@
          "name": "Currency",
          "row": 1,
          "cost": 245,
-         "quote": "'When I was young I thought that money was the most important thing in life; now that I am old I know that it is.' - Oscar Wilde",
+         "quote": "'When I was young I thought that money was the most important thing in life; now that I am old I know that it is.' - Oscar Wilde.",
          "prerequisites": ["Sailing","Writing"],
        },
        {
@@ -112,12 +112,14 @@
          "name": "Bronze Working",
          "row": 3,
          "cost": 255,
+         "quote": "'He heard these horrors and his spirit stirred, and spurred to action, he sheathed his skin in burnished bronze.' - The Iliad.",
          "prerequisites": ["Writing","Irrigation"],
        },
        {
          "name": "Bronze Working Mastery",
          "row": 4,
          "cost": 255,
+         "quote": "'He heard these horrors and his spirit stirred, and spurred to action, he sheathed his skin in burnished bronze.' - The Iliad.",
          "uniques": ["[+3] Strength <for [{Military} {Land}] units>","Provides [1] [Codex]",
                      "Only available <after discovering [Bronze Working]>"],
        },
