@@ -103,10 +103,11 @@
 
 	{
 		"name": "Colossus",
+		"gold": 3,
 		"cost": 375,
 		"isWonder": true,
 		"requiredTech": "Currency",
-		"quote": "'The canal-water gushes from above into the gardens; fragrance pervades the walkways, streams of water as numerous as the stars of heaven flow in the pleasure garden.' - Ashurbanipal.",
+		"quote": "'He doth bestride the narrow world, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare.",
 		"uniques": ["[+1 Food] from [Farm] tiles <in this city>",
 		            "[+10]% growth [in all cities]"],
 	},
