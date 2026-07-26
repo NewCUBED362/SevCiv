@@ -18,10 +18,11 @@
         "[-30]% [Science] [in all cities] <when below [-5] [Happiness]>",
         "[-40]% [Science] [in all cities] <when below [-7] [Happiness]>",
 
-        "[-20]% Culture cost of natural border growth [in all cities] <in cities with [2] [Population]>",
-        "[-30]% Culture cost of natural border growth [in all cities] <in cities with [4] [Population]>",
-        "[-40]% Culture cost of natural border growth [in all cities] <in cities with [6] [Population]>",
-        "[-60]% Culture cost of natural border growth [in all cities] <in cities with [8] [Population]>",
-        "[-70]% Culture cost of natural border growth [in all cities] <in cities with [10] [Population]>"
+        "[-40]% Culture cost of natural border growth [in all cities] <in cities with [2] [Population]>",
+        "[-50]% Culture cost of natural border growth [in all cities] <in cities with [4] [Population]>",
+        "[-60]% Culture cost of natural border growth [in all cities] <in cities with [6] [Population]>",
+        "[-80]% Culture cost of natural border growth [in all cities] <in cities with [8] [Population]>",
+        "[-90]% Culture cost of natural border growth [in all cities] <in cities with [10] [Population]>",
+        "[-120]% Culture cost of natural border growth [in this city] <in cities with between [11] and [99] [Population]>"
     ]
 }
