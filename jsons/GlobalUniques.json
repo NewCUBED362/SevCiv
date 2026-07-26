@@ -16,6 +16,11 @@
         "[-10]% [Science] [in all cities] <when below [-1] [Happiness]>",
         "[-20]% [Science] [in all cities] <when below [-3] [Happiness]>",
         "[-30]% [Science] [in all cities] <when below [-5] [Happiness]>",
-        "[-40]% [Science] [in all cities] <when below [-7] [Happiness]>"
+        "[-40]% [Science] [in all cities] <when below [-7] [Happiness]>",
+
+        "Gain control over [2] tiles [in this city] <in cities with at least [2] [Population]>",
+        "Gain control over [2] tiles [in this city] <in cities with at least [3] [Population]>",
+        "Gain control over [2] tiles [in this city] <in cities with at least [4] [Population]>",
+        "Gain control over [2] tiles [in this city] <in cities with at least [5] [Population]>"
     ]
 }
