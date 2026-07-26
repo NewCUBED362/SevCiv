@@ -21,6 +21,13 @@
 			        "[+1 Food] from [River] tiles [in this city]"],
 	},
 	{
+		"name": "Barracks",
+		"production": 3,
+		"cost": 90,
+		"maintenance": 2,
+		"requiredTech": "Bronze Working",
+	},
+	{
 		"name": "Brickyard",
 		"production": 1,
 		"cost": 55,
