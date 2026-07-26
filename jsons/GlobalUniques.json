@@ -23,6 +23,6 @@
         "[-60]% Culture cost of natural border growth [in all cities] <in cities with [6] [Population]>",
         "[-80]% Culture cost of natural border growth [in all cities] <in cities with [8] [Population]>",
         "[-90]% Culture cost of natural border growth [in all cities] <in cities with [10] [Population]>",
-        "[-120]% Culture cost of natural border growth [in this city] <in cities with between [11] and [99] [Population]>"
+        "[-90]% Culture cost of natural border growth [in this city] <in cities with between [11] and [99] [Population]>"
     ]
 }
