@@ -6,17 +6,17 @@
         "[+1 Culture] [in all cities]",
         "[+1 Culture] per [3] population [in all cities]",
 
-        "[-10]% [Production] [in all cities] <when below [-1] Happiness>",
-        "[-20]% [Production] [in all cities] <when below [-3] Happiness>",
-        "[-30]% [Production] [in all cities] <when below [-5] Happiness>",
-        "[-40]% [Production] [in all cities] <when below [-7] Happiness>",
-        "[-10]% [Food] [in all cities] <when below [-1] Happiness>",
-        "[-20]% [Food] [in all cities] <when below [-3] Happiness>",
-        "[-30]% [Food] [in all cities] <when below [-5] Happiness>",
-        "[-40]% [Food] [in all cities] <when below [-7] Happiness>",
-        "[-10]% [Science] [in all cities] <when below [-1] Happiness>",
-        "[-20]% [Science] [in all cities] <when below [-3] Happiness>",
-        "[-30]% [Science] [in all cities] <when below [-5] Happiness>",
-        "[-40]% [Science] [in all cities] <when below [-7] Happiness>"
+        "[-10]% [Production] [in all cities] <when below [-1] [Happiness]>",
+        "[-20]% [Production] [in all cities] <when below [-3] [Happiness]>",
+        "[-30]% [Production] [in all cities] <when below [-5] [Happiness]>",
+        "[-40]% [Production] [in all cities] <when below [-7] [Happiness]>",
+        "[-10]% [Food] [in all cities] <when below [-1] [Happiness]>",
+        "[-20]% [Food] [in all cities] <when below [-3] [Happiness]>",
+        "[-30]% [Food] [in all cities] <when below [-5] [Happiness]>",
+        "[-40]% [Food] [in all cities] <when below [-7] [Happiness]>",
+        "[-10]% [Science] [in all cities] <when below [-1] [Happiness]>",
+        "[-20]% [Science] [in all cities] <when below [-3] [Happiness]>",
+        "[-30]% [Science] [in all cities] <when below [-5] [Happiness]>",
+        "[-40]% [Science] [in all cities] <when below [-7] [Happiness]>"
     ]
 }
