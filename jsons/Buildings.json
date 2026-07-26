@@ -26,6 +26,8 @@
 		"cost": 90,
 		"maintenance": 2,
 		"requiredTech": "Bronze Working",
+		"uniques": ["[+10]% Production when constructing [Land] units [in this city] <during the [Antiquity Age]>",
+		            "[+1 Production] from [resource] tiles [in this city] <during the [Antiquity Age]>"],
 	},
 	{
 		"name": "Brickyard",
