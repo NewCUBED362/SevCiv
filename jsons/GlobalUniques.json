@@ -4,6 +4,7 @@
         "[-100]% unhappiness from the number of cities",
         "[-50]% Unhappiness from [Population] [in all cities]",
         "[+1 Culture] [in all cities]",
+        "[-75]% growth [in all cities]",
 
         "[-10]% [Production] [in all cities] <when below [-1] [Happiness]>",
         "[-20]% [Production] [in all cities] <when below [-3] [Happiness]>",
