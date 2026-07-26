@@ -9,6 +9,6 @@
   },
   {
     "name": "Economic",
-    "milestones": ["Have more [Gold] than each player's [Gold] <after turn number [10]>"],
+    "milestones": ["Have more [Gold] than each player's [Gold] <upon discovering [Currency] technology>"],
   }
 ]
