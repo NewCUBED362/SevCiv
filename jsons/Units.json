@@ -38,6 +38,7 @@
     "cost": 30,
     "movement": 2,
     "strength": 20,
+	"attackSound": "nonmetalhit",
   },
   {
     "name": "Galley",
@@ -69,6 +70,7 @@
     "movement": 2,
     "strength": 25,
 	"requiredTech": "Bronze Working",
+	"attackSound": "metalhit",
   },
   // Unique Units
   {
