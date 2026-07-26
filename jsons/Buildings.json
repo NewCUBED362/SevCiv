@@ -13,7 +13,11 @@
 		"food": 4,
 		"cost": 180,
 		"requiredTech": "Currency",
-		"uniques": ["Must be on [River]"],
+		"uniques": ["Must be on [River]",
+			        "[+10]% growth [in this city]",
+		            "[+1 Food] from [Coastal] tiles [in this city]",
+			        "[+1 Food] from all [Wonder] buildings <in this city>",
+			        "[+1 Food] from [River] tiles [in this city]"],
 	},
 	{
 		"name": "Brickyard",
