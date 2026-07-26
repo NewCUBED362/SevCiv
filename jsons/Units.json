@@ -62,6 +62,14 @@
 	"requiredTech": "Animal Husbandry",
 	"attackSound": "arrow",
   },
+  {
+    "name": "Spearman",
+    "unitType": "Sword",
+    "cost": 60,
+    "movement": 2,
+    "strength": 25,
+	"requiredTech": "Bronze Working",
+  },
   // Unique Units
   {
     "name": "Medjay",
