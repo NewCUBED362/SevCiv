@@ -12,6 +12,7 @@
 		"name": "Bath",
 		"food": 4,
 		"cost": 180,
+		"maintenance": 2,
 		"requiredTech": "Currency",
 		"uniques": ["Must be on [River]",
 			        "[+10]% growth [in this city]",
