@@ -86,6 +86,17 @@
 	"uniques": ["Comment [+3 Combat Strength in friendly Territory, doubled when stationed in a Settlement]",
 		        "[+3] Strength <in [Friendly Land] tiles> <hidden from users>",
 		        "[+6] Strength <in [{your} {City center}] tiles> <hidden from users>"],
+  },
+  {
+    "name": "Legion", // Combat Strength for every Tradition in Civ VII
+    "unitType": "Sword",
+    "cost": 60,
+    "movement": 2,
+    "strength": 25,
+	"replaces": "Spearman",
+	"uniqueTo": "Rome",
+	"requiredTech": "Bronze Working",
+	"attackSound": "metalhit",
   }
 ]
     
