@@ -4,6 +4,15 @@
         "[-100]% unhappiness from the number of cities",
         "[-50]% Unhappiness from [Population] [in all cities]",
         "[+1 Culture] [in all cities]",
-        "[+1 Culture] per [3] population [in all cities]"
+        "[+1 Culture] per [3] population [in all cities]",
+
+        "[-5]% Yield from every [all] <when below [0] [Happiness]>",
+        "[-5]% Yield from every [all] <when below [1] [Happiness]>",
+        "[-5]% Yield from every [all] <when below [2] [Happiness]>",
+        "[-5]% Yield from every [all] <when below [3] [Happiness]>",
+        "[-5]% Yield from every [all] <when below [4] [Happiness]>",
+        "[-5]% Yield from every [all] <when below [5] [Happiness]>",
+        "[-5]% Yield from every [all] <when below [6] [Happiness]>",
+        "[-5]% Yield from every [all] <when below [7] [Happiness]>"
     ]
 }
