@@ -9,6 +9,12 @@
 		            "[+5 Food, +5 Production, +5 Happiness] <during the [Antiquity Age]>"]
 	},
 	{
+		"name": "Bath",
+		"food": 4,
+		"cost": 180,
+		"requiredTech": "Currency",
+	},
+	{
 		"name": "Brickyard",
 		"production": 1,
 		"cost": 55,
