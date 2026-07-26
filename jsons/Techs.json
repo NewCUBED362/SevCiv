@@ -105,7 +105,8 @@
          "name": "Currency Mastery",
          "row": 2,
          "cost": 245,
-         "uniques": ["Only available <after discovering [Currency]>"],
+         "quote": "'When I was young I thought that money was the most important thing in life; now that I am old I know that it is.' - Oscar Wilde.",
+         "uniques": ["Provides [1] [Codex]","Only available <after discovering [Currency]>"],
        },
        {
          "name": "Bronze Working",
