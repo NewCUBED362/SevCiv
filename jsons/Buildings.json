@@ -13,6 +13,7 @@
 		"food": 4,
 		"cost": 180,
 		"requiredTech": "Currency",
+		"uniques": ["Must be on [River]"],
 	},
 	{
 		"name": "Brickyard",
