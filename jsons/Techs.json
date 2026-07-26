@@ -98,6 +98,7 @@
          "name": "Currency",
          "row": 1,
          "cost": 245,
+         "quote": "'When I was young I thought that money was the most important thing in life; now that I am old I know that it is.' - Oscar Wilde",
          "prerequisites": ["Sailing","Writing"],
        },
        {
