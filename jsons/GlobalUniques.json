@@ -6,13 +6,13 @@
         "[+1 Culture] [in all cities]",
         "[+1 Culture] per [3] population [in all cities]",
 
-        "[-5]% Yield from every [all] <when below [0] [Happiness]> <in [in all cities] cities>",
-        "[-5]% Yield from every [all] <when below [-1] [Happiness]> <in [in all cities] cities>",
-        "[-5]% Yield from every [all] <when below [-2] [Happiness]> <in [in all cities] cities>",
-        "[-5]% Yield from every [all] <when below [-3] [Happiness]> <in [in all cities] cities>",
-        "[-5]% Yield from every [all] <when below [-4] [Happiness]> <in [in all cities] cities>",
-        "[-5]% Yield from every [all] <when below [-5] [Happiness]> <in [in all cities] cities>",
-        "[-5]% Yield from every [all] <when below [-6] [Happiness]> <in [in all cities] cities>",
-        "[-5]% Yield from every [all] <when below [-7] [Happiness]> <in [in all cities] cities>"
+        "[-5]% Yield from every [Buildings] <when below [0] [Happiness]> <in [in all cities] cities>",
+        "[-5]% Yield from every [Buildings] <when below [-1] [Happiness]> <in [in all cities] cities>",
+        "[-5]% Yield from every [Buildings] <when below [-2] [Happiness]> <in [in all cities] cities>",
+        "[-5]% Yield from every [Buildings] <when below [-3] [Happiness]> <in [in all cities] cities>",
+        "[-5]% Yield from every [Buildings] <when below [-4] [Happiness]> <in [in all cities] cities>",
+        "[-5]% Yield from every [Buildings] <when below [-5] [Happiness]> <in [in all cities] cities>",
+        "[-5]% Yield from every [Buildings] <when below [-6] [Happiness]> <in [in all cities] cities>",
+        "[-5]% Yield from every [Buildings] <when below [-7] [Happiness]> <in [in all cities] cities>"
     ]
 }
