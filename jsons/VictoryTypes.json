@@ -9,6 +9,6 @@
   },
   {
     "name": "Economic",
-    "milestones": ["Destroy all players"],
+    "milestones": ["Have more [Gold] than each player's [Gold] <after turn number [10]>"],
   }
 ]
