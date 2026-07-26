@@ -38,6 +38,8 @@
     "cost": 30,
     "movement": 2,
     "strength": 20,
+	"obsoleteTech": "Bronze Working",
+	"upgradesTo": "Spearman",
 	"attackSound": "nonmetalhit",
   },
   {
