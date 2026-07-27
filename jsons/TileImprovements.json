@@ -24,6 +24,12 @@
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "P"
 	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Hill"],
+		"turnsToBuild": 8,
+		"shortcutKey": "M"
+	},
 	// Military improvement
 	{
 		"name": "Fort",
