@@ -34,7 +34,7 @@
 	},
   // Luxury resources
 	{
-		"name": "Gold ore",
+		"name": "Gold Ore",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Desert","Hill","Forest","Jungle"],
 		"gold": 1,
