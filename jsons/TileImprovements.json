@@ -28,6 +28,7 @@
 		"name": "Mine",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Hill"],
 		"turnsToBuild": 8,
+		"uniques": ["[+1 Production] <after discovering [Masonry]>"],
 		"shortcutKey": "M"
 	},
 	// Military improvement
