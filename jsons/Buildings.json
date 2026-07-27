@@ -34,7 +34,8 @@
 		"production": 1,
 		"cost": 55,
 		"requiredTech": "Pottery",
-		"uniques": ["[+1 Production] from [Clay Pit] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Clay Pit] tiles [in this city]",
+		            "[+1 Production] from [Mine] tiles [in this city]"],
 	},
 	{
 		"name": "Fishing Quay",
