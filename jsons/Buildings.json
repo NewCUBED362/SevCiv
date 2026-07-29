@@ -102,6 +102,14 @@
 		"requiredTech": "Animal Husbandry",
 	},
 	{
+		"name": "Villa",
+		"happiness": 3,
+		"cost": 130,
+		"maintenance": 2,
+		"requiredTech": "The Wheel",
+		"uniques": ["[+1 Happiness] from [Mountain] tiles [in this city]"],
+	},
+	{
 		"name": "Ancient Walls",
 		"cost": 60,
 		"requiredTech": "Masonry",
