@@ -130,6 +130,7 @@
 	"replaces": "Chariot",
 	"uniqueTo": "Maurya",
 	"requiredTech": "The Wheel",
+	"uniques": ["[+5] Strength <vs cities> <when attacking>"],
 	"attackSound": "horse",
   },
   {
