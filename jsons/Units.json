@@ -96,7 +96,7 @@
 	"rangedStrength": 10,
 	"range": 2,
 	"requiredTech": "The Wheel",
-	"uniques": ["[+20] Strength <vs cities>"],
+	"uniques": ["[+20] Strength <vs cities> <when attacking>"],
 	"attackSound": "arrow",
   },
   // Unique Units
