@@ -12,6 +12,10 @@
     "movementType": "Land",
   },
   {
+    "name": "Mounted",
+    "movementType": "Land",
+  },
+  {
     "name": "Support",
     "movementType": "Land",
   },
