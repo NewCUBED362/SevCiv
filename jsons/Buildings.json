@@ -107,7 +107,8 @@
 		"cost": 130,
 		"maintenance": 2,
 		"requiredTech": "The Wheel",
-		"uniques": ["[+1 Happiness] from [Mountain] tiles [in this city]"],
+		"uniques": ["[+1 Happiness] from [Mountain] tiles [in this city]",
+		            "Can only be built <when below [-1] [Happiness]>"],
 	},
 	{
 		"name": "Ancient Walls",
