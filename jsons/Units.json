@@ -122,6 +122,17 @@
 		        "[+6] Strength <in [{your} {City center}] tiles> <hidden from users>"],
   },
   {
+    "name": "Purabhettarah",
+    "unitType": "Mounted",
+    "cost": 70,
+    "movement": 2,
+    "strength": 30,
+	"replaces": "Chariot",
+	"uniqueTo": "Maurya",
+	"requiredTech": "The Wheel",
+	"attackSound": "horse",
+  },
+  {
     "name": "Legion", // Combat Strength for every Tradition in Civ VII
     "unitType": "Sword",
     "cost": 60,
