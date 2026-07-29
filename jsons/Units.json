@@ -99,6 +99,15 @@
 	"uniques": ["[+20] Strength <vs cities> <when attacking>"],
 	"attackSound": "arrow",
   },
+  {
+    "name": "Chariot",
+    "unitType": "Mounted",
+    "cost": 80,
+    "movement": 3,
+    "strength": 30,
+	"requiredTech": "The Wheel",
+	"attackSound": "horse",
+  },
   // Unique Units
   {
     "name": "Medjay",
