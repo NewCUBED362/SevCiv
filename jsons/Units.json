@@ -87,6 +87,17 @@
 	"requiredTech": "Bronze Working",
 	"attackSound": "arrow",
   },
+  {
+    "name": "Ballista",
+    "unitType": "Siege",
+    "cost": 55,
+    "movement": 1,
+    "strength": 15,
+	"rangedStrength": 10,
+	"range": 2,
+	"requiredTech": "The Wheel",
+	"attackSound": "arrow",
+  },
   // Unique Units
   {
     "name": "Medjay",
