@@ -133,7 +133,8 @@
          "name": "The Wheel Mastery",
          "row": 7,
          "cost": 245,
-         "uniques": ["Only available <after discovering [The Wheel]>"],
+         "uniques": ["Provides [1] [Codex]","[+1] Movement <for [Siege] units>",
+                     "Only available <after discovering [The Wheel]>"],
        }
     ]
   },
