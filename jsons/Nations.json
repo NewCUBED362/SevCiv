@@ -105,7 +105,7 @@
     "outerColor": [21,108,49],
     "uniqueName": "Warrior-Queen of Zazzau",
     "uniques": ["Comment [---Warrior-Queen of Zazzau---]","[+1 Gold] from [resource] tiles [in all cities] <starting from the [Antiquity Age]>",
-                "[+5] Strength <for [Military] units> <in [Plains] tiles>","[+5] Strength <for [Military] units> <in [Desert] tiles>"],
+                "[+5] Strength <for [Military] units> <when fighting in [Plains] tiles>","[+5] Strength <for [Military] units> <when fighting in [Desert] tiles>"],
     "cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka","Gobir",
                "Gaya","Katsina","Zaria","Takedda","Kabara","Kano","Walata","Sibiridugu","Oualata","Segu","Bamba","Teghazza",
                "Yatemga","Dia","Arawan","Tishit","Ouadane","Masina","Bilma"],
