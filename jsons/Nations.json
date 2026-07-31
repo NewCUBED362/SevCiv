@@ -134,7 +134,7 @@
     // Independent Peoples
 
   // Make sure to equal the city states!!
-  // Antiquity: 6, Exploration: 5, Modern: 2.
+  // Antiquity: 6, Exploration: 5, Modern: 3.
 
   {
     "name": "Kush",
@@ -171,6 +171,18 @@
     "innerColor": [247,214,1],
     "outerColor": [0,0,0],
     "cities": ["Tyre"],
+  },
+  {
+    "name": "Austria",
+    "cityStateType": "Cultural",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "This isn't how it is supposed to be!",
+
+    "innerColor": [109,0,205],
+    "outerColor": [0,0,0],
+    "cities": ["Vienna"],
   },
   {
     "name": "The Toltecs",
