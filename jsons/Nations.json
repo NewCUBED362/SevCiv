@@ -106,7 +106,8 @@
     "uniqueName": "Warrior-Queen of Zazzau",
     "uniques": ["Comment [---Warrior-Queen of Zazzau---]"],
     "cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka","Gobir",
-               "Gaya","Katsina","Zaria","Takedda","Kabara","Kano","Walata","Sibiridugu","Oualata","Segu"],
+               "Gaya","Katsina","Zaria","Takedda","Kabara","Kano","Walata","Sibiridugu","Oualata","Segu","Bamba","Teghazza",
+               "Yatemga","Dia","Arawan","Tishit","Ouadane","Masina","Bilma"],
   },
   {
     "name": "The Han",
