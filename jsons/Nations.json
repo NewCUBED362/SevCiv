@@ -101,8 +101,8 @@
     "defeated": "From obscurity I rose, and to it I must return. From the desert I will watch you.",
     "introduction": "I am Amina, Sarauniya and taker of whatever — and whomever — pleases me.",
 
-    "innerColor": [202,20,20],
-    "outerColor": [234,225,157],
+    "innerColor": [249,249,249],
+    "outerColor": [21,108,49],
     "uniqueName": "Warrior-Queen of Zazzau",
     "uniques": ["Comment [---Warrior-Queen of Zazzau---]"],
     "cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka","Gobir",
