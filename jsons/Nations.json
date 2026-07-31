@@ -105,7 +105,8 @@
     "outerColor": [234,225,157],
     "uniqueName": "Warrior-Queen of Zazzau",
     "uniques": ["Comment [---Warrior-Queen of Zazzau---]"],
-    "cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka","Gobir"],
+    "cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka","Gobir",
+               "Gaya","Katsina","Zaria","Takedda","Kabara","Kano","Walata","Sibiridugu","Oualata","Segu"],
   },
   {
     "name": "The Han",
