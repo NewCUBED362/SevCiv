@@ -134,7 +134,7 @@
     // Independent Peoples
 
   // Make sure to equal the city states!!
-  // Antiquity: 6, Exploration: 4, Modern: 2.
+  // Antiquity: 6, Exploration: 5, Modern: 2.
 
   {
     "name": "Kush",
@@ -219,6 +219,18 @@
     "innerColor": [0,79,206],
     "outerColor": [0,0,0],
     "cities": ["Gaegyeong"],
+  },
+  {
+    "name": "The Soninke",
+    "cityStateType": "Scientific",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "You fiend! History shall remember this!",
+
+    "innerColor": [0,79,206],
+    "outerColor": [0,0,0],
+    "cities": ["Awdaghust"],
   },
   {
     "name": "Massina",
