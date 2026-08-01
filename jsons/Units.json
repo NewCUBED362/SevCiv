@@ -119,7 +119,8 @@
 	"rangedStrength": 25,
 	"range": 1,
 	"requiredTech": "Navigation",
-	"uniques": ["Cannot enter ocean tiles"],
+	"uniques": ["Cannot enter ocean tiles",
+	            "[-5] Strength <vs cities> <when attacking>"],
 	"attackSound": "arrow",
   },
   // Unique Units
