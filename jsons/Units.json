@@ -108,6 +108,18 @@
 	"requiredTech": "The Wheel",
 	"attackSound": "horse",
   },
+  {
+    "name": "Quadrireme",
+    "unitType": "Ranged Water",
+    "cost": 90,
+    "movement": 3,
+    "strength": 30,
+	"rangedStrength": 25,
+	"range": 1,
+	"requiredTech": "Navigation",
+	"uniques": ["Cannot enter ocean tiles"],
+	"attackSound": "arrow",
+  },
   // Unique Units
   {
     "name": "Medjay",
