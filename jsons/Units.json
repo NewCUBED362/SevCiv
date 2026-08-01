@@ -51,6 +51,8 @@
 	"rangedStrength": 20,
 	"range": 1,
 	"requiredTech": "Sailing",
+	"obsoleteTech": "Navigation",
+	"upgradesTo": "Quadrireme",
 	"uniques": ["Cannot enter ocean tiles"],
 	"attackSound": "arrow",
   },
