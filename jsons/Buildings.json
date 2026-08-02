@@ -142,7 +142,7 @@
 		"gold": 3,
 		"cost": 275,
 		"isWonder": true,
-		"requiredTech": "Navigation",
+		"requiredTech": "Navigation Mastery",
 		"uniques": ["[+1] Sight <for [{Military} {Water}] units>",
 			        "Can only be built <in [Coastal] cities>"],
 	},
