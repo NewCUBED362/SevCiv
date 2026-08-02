@@ -138,6 +138,14 @@
 		"uniques": ["Can only be built <in [Coastal] cities>"],
 	},
 	{
+		"name": "Great Lighthouse",
+		"gold": 3,
+		"cost": 275,
+		"isWonder": true,
+		"requiredTech": "Navigation",
+		"uniques": ["Can only be built <in [Coastal] cities>"],
+	},
+	{
 		"name": "Hanging Gardens",
 		"cost": 275,
 		"isWonder": true,
