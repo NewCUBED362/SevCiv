@@ -156,7 +156,7 @@
          "name": "Navigation Mastery",
          "row": 2,
          "cost": 430,
-         "uniques": ["Only available <after discovering [Navigation]>"],
+         "uniques": ["[+3] Strength <for [{Military} {Water}] units>","Only available <after discovering [Navigation]>"],
        },
        {
          "name": "Engineering",
