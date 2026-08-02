@@ -122,7 +122,8 @@
 		"gold": 4,
 		"cost": 180,
 		"requiredTech": "Navigation",
-		"uniques": ["[+1 Gold] from [Coastal] tiles [in this city] <during the [Antiquity Age]>"],
+		"uniques": ["[+1 Gold] from [Coastal] tiles [in this city] <during the [Antiquity Age]>",
+			        "Can only be built <in [Coastal] cities>"],
 	},
 
   // Wonders
