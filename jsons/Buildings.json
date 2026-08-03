@@ -143,7 +143,7 @@
 		"cost": 375,
 		"isWonder": true,
 		"requiredTech": "Engineering",
-		"uniques": ["[+1] Sight <for [{Military} {Water}] units>",
+		"uniques": ["[+10]% Strength for cities <in [Coastal] tiles>",
 			        "Can only be built <in [Coastal] cities>"],
 	},
 	{
