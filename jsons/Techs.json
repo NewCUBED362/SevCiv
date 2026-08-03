@@ -151,12 +151,15 @@
          "row": 1,
          "cost": 430,
          "prerequisites": ["Currency"],
+         "quote": "'Ships at a distance have every man's wish on board.' - Zora Neale Hurston.",
        },
        {
          "name": "Navigation Mastery",
          "row": 2,
          "cost": 430,
-         "uniques": ["[+3] Strength <for [{Military} {Water}] units>","Only available <after discovering [Navigation]>"],
+         "quote": "'Ships at a distance have every man's wish on board.' - Zora Neale Hurston.",
+         "uniques": ["Provides [1] [Codex]","[+3] Strength <for [{Military} {Water}] units>",
+                     "Only available <after discovering [Navigation]>"],
        },
        {
          "name": "Engineering",
