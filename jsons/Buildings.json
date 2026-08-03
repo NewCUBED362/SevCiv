@@ -125,6 +125,14 @@
 		"uniques": ["[+1 Gold] from [Coastal] tiles [in this city] <during the [Antiquity Age]>",
 			        "Can only be built <in [Coastal] cities>"],
 	},
+	{
+		"name": "Amphitheater",
+		"culture": 4,
+		"cost": 180,
+		"maintenance": 2,
+		"requiredTech": "Engineering",
+		"uniques": ["[+1 Culture] from [Mountain] tiles [in this city]"],
+	},
 
   // Wonders
 
