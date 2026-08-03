@@ -143,6 +143,7 @@
 		"cost": 375,
 		"isWonder": true,
 		"requiredTech": "Engineering",
+		"quote": "'There are to be seen at this day certain ruins of the city walls.' - Leo Africanus.",
 		"uniques": ["[+10]% Strength for cities <in [Coastal] tiles>",
 			        "Can only be built <in [Coastal] cities>"],
 	},
