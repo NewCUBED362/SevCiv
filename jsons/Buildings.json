@@ -180,6 +180,8 @@
 		"cost": 375,
 		"isWonder": true,
 		"requiredTech": "Engineering Mastery",
-		"uniques": ["Must be next to [Mountain]"],
+		"uniques": ["[+2 Culture, +1 Production] [in this city] <if [Garden] is constructed>",
+			        "[+2 Culture, +1 Production] [in this city] <if [Villa] is constructed>",
+			        "Must be next to [Mountain]"],
 	}
 ]
