@@ -180,6 +180,6 @@
 		"cost": 375,
 		"isWonder": true,
 		"requiredTech": "Engineering Mastery",
-		"uniques": ["Can only be built <in [Hill] cities>"],
+		"uniques": ["Must be next to [Mountain]"],
 	}
 ]
