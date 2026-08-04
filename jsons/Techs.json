@@ -173,7 +173,7 @@
          "row": 4,
          "cost": 430,
          "quote": "'Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.' - Antoine de Saint-Exupéry.",
-         "uniques": ["Only available <after discovering [Engineering]>"],
+         "uniques": ["Provides [1] [Codex]","Only available <after discovering [Engineering]>"],
        },
        {
          "name": "Military Training",
