@@ -166,11 +166,13 @@
          "row": 3,
          "cost": 430,
          "prerequisites": ["Currency","Bronze Working"],
+         "quote": "'Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.' - Antoine de Saint-Exupéry.",
        },
        {
          "name": "Engineering Mastery",
          "row": 4,
          "cost": 430,
+         "quote": "'Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.' - Antoine de Saint-Exupéry.",
          "uniques": ["Only available <after discovering [Engineering]>"],
        },
        {
