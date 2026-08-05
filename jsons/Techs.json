@@ -187,7 +187,9 @@
          "row": 7,
          "cost": 430,
          "quote": "'The truly brave never boast.' - The Mahābhārata.",
-         "uniques": ["Only available <after discovering [Military Training]>"],
+         "uniques": ["[+3] Strength <for [Archery] units>",
+                     "[+3] Strength <for [Siege] units>",
+                     "Only available <after discovering [Military Training]>"],
        }
     ]
   },
