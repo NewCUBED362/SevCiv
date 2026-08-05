@@ -180,11 +180,13 @@
          "row": 6,
          "cost": 430,
          "prerequisites": ["Bronze Working","The Wheel"],
+         "quote": "'The truly brave never boast.' - The Mahābhārata.",
        },
        {
          "name": "Military Training Mastery",
          "row": 7,
          "cost": 430,
+         "quote": "'The truly brave never boast.' - The Mahābhārata.",
          "uniques": ["Only available <after discovering [Military Training]>"],
        }
     ]
