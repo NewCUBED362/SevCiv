@@ -142,6 +142,14 @@
 		"requiredTech": "Military Training",
 		"uniques": ["[+1 Happiness] from [Mountain] tiles [in this city] <during the [Antiquity Age]>"],
 	},
+	{
+		"name": "Blacksmith",
+		"production": 4,
+		"cost": 180,
+		"maintenance": 2,
+		"requiredTech": "Military Training",
+		"uniques": ["[+1 Production] from [resource] tiles [in this city] <during the [Antiquity Age]>"],
+	},
 
   // Wonders
 
