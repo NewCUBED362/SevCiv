@@ -191,6 +191,7 @@
 		"quote": "'Knowing enough is not humiliating; knowing when to stop is not dangerous.' - Tao Te Ching.",
 		"uniques": ["[+2 Culture, +1 Production] [in this city] <if [Garden] is constructed>",
 			        "[+2 Culture, +1 Production] [in this city] <if [Villa] is constructed>",
+			        "[+2 Culture, +1 Production] [in this city] <if [Arena] is constructed>",
 			        "Must be next to [Mountain]"],
 	}
 ]
