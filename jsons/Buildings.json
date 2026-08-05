@@ -134,6 +134,14 @@
 		"uniques": ["[+1 Culture] from [Mountain] tiles [in this city] <during the [Antiquity Age]>",
 		            "[+10]% Production when constructing [Wonder] buildings [in this city] <during the [Antiquity Age]>"],
 	},
+	{
+		"name": "Arena",
+		"happiness": 4,
+		"cost": 180,
+		"maintenance": 2,
+		"requiredTech": "Military Training",
+		"uniques": ["[+1 Happiness] from [Mountain] tiles [in this city] <during the [Antiquity Age]>"],
+	},
 
   // Wonders
 
