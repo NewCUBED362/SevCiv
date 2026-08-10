@@ -209,5 +209,14 @@
 			        "[+2 Culture, +1 Production] [in this city] <if [Villa] is constructed>",
 			        "[+2 Culture, +1 Production] [in this city] <if [Arena] is constructed>",
 			        "Must be next to [Mountain]"],
-	}
+	},
+	{
+		"name": "Pyramid Of The Sun",
+		"culture": 5,
+		"cost": 375,
+		"isWonder": true,
+		"requiredTech": "Mathematics",
+		"quote": "'There are to be seen at this day certain ruins of the city walls.' - Leo Africanus.",
+		"uniques": ["Can only be built <in [Featureless] cities>"],
+	},
 ]
