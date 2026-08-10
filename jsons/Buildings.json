@@ -219,4 +219,10 @@
 		"quote": "'The warriors' blood flowed like water and gathered in pools.' - Mexica Account of Toxcatl.",
 		"uniques": ["Can only be built <in [Featureless] tiles>"],
 	},
+	// Victory Buildings
+	{
+		"name": "Spherical Earth",
+		"isNationalWonder": true,
+		"cost": 600,
+	},
 ]
