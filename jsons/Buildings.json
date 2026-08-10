@@ -186,6 +186,7 @@
 		"cost": 375,
 		"isWonder": true,
 		"requiredTech": "Mathematics Mastery",
+		"quote": "'The place for the cure of the soul.' - Inscription over the door at the library.",
 		"uniques": ["[+1 Science] from all [Science] buildings"],
 	},
 	{
