@@ -6,581 +6,616 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Ancient Walls
   rotate: false
-  xy: 140, 130
+  xy: 276, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arena
+  rotate: false
+  xy: 548, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Bath
   rotate: false
-  xy: 520, 402
+  xy: 764, 408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Blacksmith
+  rotate: false
+  xy: 872, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Brickyard
   rotate: false
-  xy: 628, 402
+  xy: 980, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Brickyard
   rotate: false
-  xy: 628, 402
+  xy: 980, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Byrsa
+  rotate: false
+  xy: 4, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Lighthouse
+  rotate: false
+  xy: 276, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mireuksa
+  rotate: false
+  xy: 276, 244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 BuildingIcons/Saw Pit
   rotate: false
-  xy: 816, 294
+  xy: 1384, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Saw Pit
   rotate: false
-  xy: 816, 294
+  xy: 1384, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Villa
   rotate: false
-  xy: 1464, 294
+  xy: 736, 192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Cultural
   rotate: false
-  xy: 4, 374
+  xy: 4, 244
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 CityStateIcons/Diplomatic
   rotate: false
-  xy: 4, 238
+  xy: 140, 380
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 CityStateIcons/Economic
   rotate: false
-  xy: 140, 374
+  xy: 4, 108
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 CityStateIcons/Expansionist
   rotate: false
-  xy: 4, 102
+  xy: 140, 244
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 CityStateIcons/Militaristic
   rotate: false
-  xy: 140, 238
+  xy: 140, 108
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 CityStateIcons/Scientific
   rotate: false
-  xy: 276, 374
+  xy: 412, 380
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 EmojiIcons/Culture
   rotate: false
-  xy: 1310, 236
+  xy: 1806, 242
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Food
   rotate: false
-  xy: 1368, 236
+  xy: 1864, 242
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Gold
   rotate: false
-  xy: 1426, 236
+  xy: 1158, 178
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Happiness
   rotate: false
-  xy: 1484, 236
+  xy: 1216, 178
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Production
   rotate: false
-  xy: 1542, 236
+  xy: 1274, 178
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Science
   rotate: false
-  xy: 1600, 236
+  xy: 1332, 178
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 ImprovementIcons/Clay Pit
   rotate: false
-  xy: 952, 402
+  xy: 1304, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Fishing Boat
   rotate: false
-  xy: 1276, 402
+  xy: 1628, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Fishing Quay
   rotate: false
-  xy: 1276, 402
+  xy: 1628, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Garden
   rotate: false
-  xy: 1600, 402
+  xy: 276, 28
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Garden District
   rotate: false
-  xy: 1600, 402
+  xy: 276, 28
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Granary
   rotate: false
-  xy: 1816, 402
+  xy: 384, 28
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Harbor
   rotate: false
-  xy: 140, 22
+  xy: 492, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Harbor District
   rotate: false
-  xy: 140, 22
+  xy: 492, 164
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Library
   rotate: false
-  xy: 248, 22
+  xy: 628, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/America
   rotate: false
-  xy: 4, 4
+  xy: 1952, 418
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Maurya
   rotate: false
-  xy: 1788, 304
+  xy: 4, 10
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Rome
   rotate: false
-  xy: 1886, 304
+  xy: 1060, 202
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/The Han
   rotate: false
-  xy: 492, 196
+  xy: 102, 10
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ResourceIcons/Clay
   rotate: false
-  xy: 844, 402
+  xy: 1196, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Codex
   rotate: false
-  xy: 1060, 402
+  xy: 1412, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Llamas
   rotate: false
-  xy: 384, 266
+  xy: 736, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Wool
   rotate: false
-  xy: 1680, 294
+  xy: 952, 192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Culture
   rotate: false
-  xy: 1168, 402
+  xy: 1520, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Food
   rotate: false
-  xy: 1384, 402
+  xy: 1736, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Gold
   rotate: false
-  xy: 1708, 402
+  xy: 384, 136
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Happiness
   rotate: false
-  xy: 1924, 402
+  xy: 520, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Population
   rotate: false
-  xy: 356, 50
+  xy: 952, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Production
   rotate: false
-  xy: 492, 294
+  xy: 1060, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Science
   rotate: false
-  xy: 924, 294
+  xy: 1492, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Brickyard-Antiquity Age
   rotate: false
-  xy: 1984, 362
+  xy: 200, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Garden-Antiquity Age
   rotate: false
-  xy: 1984, 362
+  xy: 200, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Granary-Antiquity Age
   rotate: false
-  xy: 1984, 362
+  xy: 200, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Library-Antiquity Age
   rotate: false
-  xy: 1984, 362
+  xy: 200, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saw Pit-Antiquity Age
   rotate: false
-  xy: 1984, 362
+  xy: 200, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Antiquity Age
   rotate: false
-  xy: 1984, 322
+  xy: 1430, 196
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Clay
   rotate: false
-  xy: 1698, 258
+  xy: 1470, 200
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Clay+Clay Pit
   rotate: false
-  xy: 1738, 258
+  xy: 492, 20
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Llamas
   rotate: false
-  xy: 590, 194
+  xy: 532, 20
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Llamas+Pasture
   rotate: false
-  xy: 630, 190
+  xy: 1924, 368
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Wool
   rotate: false
-  xy: 830, 194
+  xy: 1430, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Wool+Pasture
   rotate: false
-  xy: 870, 190
+  xy: 1470, 160
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot
   rotate: false
-  xy: 1658, 258
+  xy: 1390, 200
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Purabhettarah
   rotate: false
-  xy: 670, 194
+  xy: 1924, 332
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Quadrireme
   rotate: false
-  xy: 710, 194
+  xy: 1924, 296
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Quadrireme-1
   rotate: false
-  xy: 750, 194
+  xy: 1922, 260
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Quadrireme-2
   rotate: false
-  xy: 790, 194
+  xy: 1390, 164
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Clay
   rotate: false
-  xy: 662, 230
+  xy: 200, 44
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Clay+Clay Pit
   rotate: false
-  xy: 734, 230
+  xy: 1230, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Llamas
   rotate: false
-  xy: 806, 230
+  xy: 1302, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Llamas+Pasture
   rotate: false
-  xy: 878, 230
+  xy: 1374, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Wool
   rotate: false
-  xy: 1166, 230
+  xy: 1662, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Wool+Pasture
   rotate: false
-  xy: 1238, 230
+  xy: 1734, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Chariot
   rotate: false
-  xy: 590, 230
+  xy: 1158, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Medjay
   rotate: false
-  xy: 950, 230
+  xy: 1446, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Purabhettarah
   rotate: false
-  xy: 1022, 224
+  xy: 1518, 230
   size: 64, 62
   orig: 64, 62
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Quadrireme
   rotate: false
-  xy: 1094, 230
+  xy: 1590, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Archer
   rotate: false
-  xy: 276, 266
+  xy: 412, 272
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ballista
   rotate: false
-  xy: 412, 402
+  xy: 656, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Chariot
   rotate: false
-  xy: 736, 402
+  xy: 1088, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Galley
   rotate: false
-  xy: 1492, 402
+  xy: 1844, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Legion
   rotate: false
-  xy: 248, 130
+  xy: 492, 56
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Medjay
   rotate: false
-  xy: 356, 158
+  xy: 844, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Purabhettarah
   rotate: false
-  xy: 600, 294
+  xy: 1168, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Quadrireme
   rotate: false
-  xy: 708, 294
+  xy: 1276, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Scout
   rotate: false
-  xy: 1032, 294
+  xy: 1600, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Settler
   rotate: false
-  xy: 1140, 294
+  xy: 1708, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Slinger
   rotate: false
-  xy: 1248, 294
+  xy: 1816, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spearman
   rotate: false
-  xy: 1356, 294
+  xy: 628, 192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warrior
   rotate: false
-  xy: 1572, 294
+  xy: 844, 192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
