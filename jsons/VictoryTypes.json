@@ -1,5 +1,9 @@
 [
   {
+    "name": "Scientific",
+    "milestones": ["Build [Spherical Earth]"],
+  },
+  {
     "name": "Time",
     "milestones": ["Have highest score after max turns"],
   },
