@@ -181,6 +181,13 @@
 		"uniques": ["Can only be built <in [Coastal] cities>"],
 	},
 	{
+		"name": "Great Library",
+		"science": 4,
+		"cost": 375,
+		"isWonder": true,
+		"requiredTech": "Mathematics Mastery",
+	},
+	{
 		"name": "Great Lighthouse",
 		"gold": 3,
 		"cost": 275,
