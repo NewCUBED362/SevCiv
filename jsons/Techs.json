@@ -204,11 +204,13 @@
          "row": 3,
          "cost": 738,
          "prerequisites": ["Navigation","Engineering"],
+         "quote": "'There is geometry in the humming of the strings. There is music in the spacing of the spheres.' - Pythagoras.",
        },
        {
          "name": "Mathematics Mastery",
          "row": 4,
          "cost": 738,
+         "quote": "'There is geometry in the humming of the strings. There is music in the spacing of the spheres.' - Pythagoras.",
          "uniques": ["Provides [2] [Codex]","Only available <after discovering [Mathematics]>"],
        },
        {
