@@ -7,10 +7,14 @@
   },
   {
     "name": "Time",
+    "victoryString": "",
+    "defeatString": "",
     "milestones": ["Have highest score after max turns"],
   },
   {
     "name": "Domination",
+    "victoryString": "",
+    "defeatString": "",
     "milestones": ["Destroy all players"],
   }
 ]
