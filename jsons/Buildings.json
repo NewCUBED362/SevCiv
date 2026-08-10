@@ -217,6 +217,6 @@
 		"isWonder": true,
 		"requiredTech": "Mathematics",
 		"quote": "'There are to be seen at this day certain ruins of the city walls.' - Leo Africanus.",
-		"uniques": ["Can only be built <in [Featureless] cities>"],
+		"uniques": ["Can only be built <in [Featureless] tiles>"],
 	},
 ]
