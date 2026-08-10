@@ -213,7 +213,7 @@
 	{
 		"name": "Pyramid Of The Sun",
 		"culture": 5,
-		"cost": 375,
+		"cost": 450,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
 		"quote": "'The warriors' blood flowed like water and gathered in pools.' - Mexica Account of Toxcatl.",
