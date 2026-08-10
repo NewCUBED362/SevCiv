@@ -209,7 +209,7 @@
          "name": "Mathematics Mastery",
          "row": 4,
          "cost": 738,
-         "uniques": ["Only available <after discovering [Mathematics]>"],
+         "uniques": ["Provides [2] [Codex]","Only available <after discovering [Mathematics]>"],
        },
        {
          "name": "Iron Working",
