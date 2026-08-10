@@ -150,6 +150,14 @@
 		"requiredTech": "Military Training",
 		"uniques": ["[+1 Production] from [resource] tiles [in this city] <during the [Antiquity Age]>"],
 	},
+	{
+		"name": "Academy",
+		"science": 4,
+		"cost": 180,
+		"maintenance": 2,
+		"requiredTech": "Mathematics",
+		"uniques": ["[+1 Science] from [resource] tiles [in this city] <during the [Antiquity Age]>"],
+	},
 
   // Wonders
 
