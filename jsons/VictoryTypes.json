@@ -1,20 +1,20 @@
 [
   {
     "name": "Scientific",
-    "victoryString": "",
-    "defeatString": "",
+    "victoryString": "You have achieved victory through mastery of Science! You have conquered the mysteries of nature and led your people on a voyage to a brave new world! Your triumph will be remembered as long as the stars burn in the night sky!",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
     "milestones": ["Build [Spherical Earth]"],
   },
   {
     "name": "Time",
     "victoryString": "",
-    "defeatString": "",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
     "milestones": ["Have highest score after max turns"],
   },
   {
     "name": "Domination",
     "victoryString": "",
-    "defeatString": "",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
     "milestones": ["Destroy all players"],
   }
 ]
