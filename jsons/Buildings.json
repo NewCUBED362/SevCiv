@@ -216,7 +216,7 @@
 		"cost": 375,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
-		"quote": "'There are to be seen at this day certain ruins of the city walls.' - Leo Africanus.",
+		"quote": "'The warriors' blood flowed like water and gathered in pools.' - Mexica Account of Toxcatl.",
 		"uniques": ["Can only be built <in [Featureless] tiles>"],
 	},
 ]
