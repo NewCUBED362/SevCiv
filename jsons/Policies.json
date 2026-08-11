@@ -73,6 +73,20 @@
         "requires": ["Public Life"],
       },
       {
+        "name": "Citizenship",
+        "row": 4,
+        "column": 5,
+        "cost": 450,
+        "requires": ["Code of Laws"],
+      },
+      {
+        "name": "Citizenship Mastery",
+        "row": 4,
+        "column": 4,
+        "cost": 450,
+        "uniques": ["Only available <after adopting [Citizenship]>"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
