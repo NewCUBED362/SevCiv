@@ -1,23 +1,5 @@
 [
   {
-    "name": "Social Policies",
-    "era": "Antiquity Age",
-    "policies": [
-      {
-        "name": "Charismatic Leader",
-        "row": 1,
-        "column": 1,
-      },
-      {
-        "name": "Tool Making",
-        "row": 1,
-        "column": 1,
-      {
-        "name": "Social Policies Complete",
-      },
-    ]
-  },
-  {
     "name": "Antiquity Civic Tree",
     "era": "Antiquity Age",
     "policies": [
