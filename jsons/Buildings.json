@@ -256,5 +256,14 @@
 		"uniques": ["Only available <after adopting [Chiefdom]>",
 			        "Can only be built <in [in capital] cities>",
 			        "Destroyed when the city is captured"],
+	},
+	{
+		"name": "Tool Making",
+		"cost": 1,
+		"hurryCostModifier": -100,
+		"requiredResource": "Policy Slot",
+		"uniques": ["Only available <after adopting [Chiefdom]>",
+			        "Can only be built <in [in capital] cities>",
+			        "Destroyed when the city is captured"],
 	}
 ]
