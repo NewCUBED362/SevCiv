@@ -17,9 +17,23 @@
         "requires": ["Chiefdom"],
       },
       {
+        "name": "Mysticism Mastery",
+        "row": 2,
+        "column": 5,
+        "cost": 125,
+        "requires": ["Chiefdom"],
+      },
+      {
         "name": "Discipline",
         "row": 2,
         "column": 3,
+        "cost": 125,
+        "requires": ["Chiefdom"],
+      },
+      {
+        "name": "Discipline Mastery",
+        "row": 2,
+        "column": 2,
         "cost": 125,
         "requires": ["Chiefdom"],
       },
