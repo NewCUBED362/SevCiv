@@ -47,7 +47,7 @@
       {
         "name": "Code of Laws",
         "row": 3,
-        "column": 8,
+        "column": 9,
         "cost": 245,
         "requires": ["Mysticism","Discipline"],
       },
@@ -75,7 +75,7 @@
       {
         "name": "Citizenship",
         "row": 4,
-        "column": 7,
+        "column": 9,
         "cost": 450,
         "requires": ["Code of Laws"],
       },
