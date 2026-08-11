@@ -59,6 +59,13 @@
         "uniques": ["Only available <after adopting [Code of Laws]>"],
       },
       {
+        "name": "Tactics",
+        "row": 3,
+        "column": 1,
+        "cost": 245,
+        "requires": ["Discipline"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
