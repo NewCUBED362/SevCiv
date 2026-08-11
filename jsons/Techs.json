@@ -218,12 +218,7 @@
          "row": 6,
          "cost": 738,
          "prerequisites": ["Military Training"],
-       },
-       {
-         "name": "Iron Working Mastery",
-         "row": 7,
-         "cost": 738,
-         "uniques": ["Only available <after discovering [Iron Working]>"],
+         "quote": "'Iron made this promise: 'By the tongs and the hammer, many trees I can injure, but I shall not kill the best of heroes.'' - The Kalevala.",
        },
     ]
   },
