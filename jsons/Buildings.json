@@ -275,5 +275,15 @@
 			        "Only available <after adopting [Chiefdom]>",
 			        "Can only be built <in [in capital] cities>",
 			        "Destroyed when the city is captured"],
+	},
+	{
+		"name": "Priesthood",
+		"cost": 1,
+		"hurryCostModifier": -100,
+		"requiredResource": "Policy Slot",
+		"uniques": ["[+2 Gold] [in all cities]",
+			        "Only available <after adopting [Mysticism]>",
+			        "Can only be built <in [in capital] cities>",
+			        "Destroyed when the city is captured"],
 	}
 ]
