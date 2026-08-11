@@ -52,6 +52,13 @@
         "requires": ["Mysticism","Discipline"],
       },
       {
+        "name": "Code of Laws Mastery",
+        "row": 3,
+        "column": 4,
+        "cost": 245,
+        "uniques": ["Only available <after adopting [Code of Laws]>"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
