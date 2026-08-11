@@ -6,8 +6,14 @@
       {
         "name": "Chiefdom",
         "row": 1,
-        "column": 6,
+        "column": 3,
         "cost": 90,
+      },
+      {
+        "name": "Mysticism",
+        "row": 2,
+        "column": 5,
+        "cost": 125,
       },
       {
         "name": "Antiquity Civic Tree Complete",
