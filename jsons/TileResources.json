@@ -99,11 +99,13 @@
 		"name": "Codex",
 		"resourceType": "Strategic",
 		"science": 2,
-		"uniques": ["Comment [Great Work]"],
+		"uniques": ["Comment [Great Work]",
+		            "Cannot be traded"],
 	},
   // Misc
 	{
 		"name": "Policy Slot",
 		"resourceType": "Strategic",
+		"uniques": ["Cannot be traded"],
 	}
 ]
