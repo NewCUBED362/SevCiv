@@ -68,7 +68,7 @@
       {
         "name": "Entertainment",
         "row": 4,
-        "column": 6,
+        "column": 5,
         "cost": 450,
         "requires": ["Public Life"],
       },
@@ -82,7 +82,7 @@
       {
         "name": "Citizenship Mastery",
         "row": 4,
-        "column": 4,
+        "column": 7,
         "cost": 450,
         "uniques": ["Only available <after adopting [Citizenship]>"],
       },
