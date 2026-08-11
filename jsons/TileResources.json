@@ -100,5 +100,10 @@
 		"resourceType": "Strategic",
 		"science": 2,
 		"uniques": ["Comment [Great Work]"],
+	},
+  // Misc
+	{
+		"name": "Policy Slot",
+		"resourceType": "Strategic",
 	}
 ]
