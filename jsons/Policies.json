@@ -19,14 +19,14 @@
       {
         "name": "Mysticism Mastery",
         "row": 2,
-        "column": 4,
+        "column": 6,
         "cost": 100,
         "uniques": ["Only available <after adopting [Mysticism]>"],
       },
       {
         "name": "Discipline",
         "row": 2,
-        "column": 6,
+        "column": 4,
         "cost": 125,
         "requires": ["Chiefdom"],
       },
