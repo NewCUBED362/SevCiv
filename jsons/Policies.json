@@ -45,6 +45,13 @@
         "requires": ["Mysticism"],
       },
       {
+        "name": "Code of Laws",
+        "row": 3,
+        "column": 5,
+        "cost": 245,
+        "requires": ["Mysticism","Discipline"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
