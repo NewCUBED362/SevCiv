@@ -55,7 +55,7 @@
         "name": "Code of Laws Mastery",
         "row": 3,
         "column": 4,
-        "cost": 245,
+        "cost": 196,
         "uniques": ["Only available <after adopting [Code of Laws]>"],
       },
       {
