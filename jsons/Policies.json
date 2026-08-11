@@ -66,6 +66,13 @@
         "requires": ["Discipline"],
       },
       {
+        "name": "Entertainment",
+        "row": 4,
+        "column": 6,
+        "cost": 450,
+        "requires": ["Public Life"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
