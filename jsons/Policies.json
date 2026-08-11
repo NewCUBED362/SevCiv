@@ -20,8 +20,8 @@
         "name": "Mysticism Mastery",
         "row": 2,
         "column": 5,
-        "cost": 125,
-        "requires": ["Chiefdom"],
+        "cost": 100,
+        "uniques": ["Only available <after adopting [Mysticism]>"],
       },
       {
         "name": "Discipline",
@@ -35,7 +35,7 @@
         "row": 2,
         "column": 2,
         "cost": 125,
-        "requires": ["Chiefdom"],
+        "uniques": ["Only available <after adopting [Discipline"],
       },
       {
         "name": "Antiquity Civic Tree Complete",
