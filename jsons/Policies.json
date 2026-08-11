@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Antiquity Civic Tree",
+    "era": "Antiquity Age",
+    "policies": [
+      {
+        "name": "Chiefdom",
+        "row": 6,
+        "column": 1,
+      }
+    ]
+  }
+]
