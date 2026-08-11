@@ -87,6 +87,13 @@
         "uniques": ["Only available <after adopting [Citizenship]>"],
       },
       {
+        "name": "Organized Military",
+        "row": 4,
+        "column": 1,
+        "cost": 450,
+        "requires": ["Tactics"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
