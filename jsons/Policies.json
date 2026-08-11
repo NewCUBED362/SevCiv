@@ -16,6 +16,7 @@
         "column": 8,
         "cost": 125,
         "requires": ["Chiefdom"],
+        "uniques": ["Comment [Enables: Altar]"],
       },
       {
         "name": "Mysticism Mastery",
