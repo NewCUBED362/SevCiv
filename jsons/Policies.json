@@ -17,6 +17,13 @@
         "requires": ["Chiefdom"],
       },
       {
+        "name": "Discipline",
+        "row": 2,
+        "column": 3,
+        "cost": 125,
+        "requires": ["Chiefdom"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
