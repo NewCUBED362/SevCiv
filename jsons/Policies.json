@@ -115,6 +115,13 @@
         "requires": ["Literacy"],
       },
       {
+        "name": "Commerce",
+        "row": 6,
+        "column": 3,
+        "cost": 750,
+        "requires": ["Skilled Trades"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
