@@ -94,6 +94,13 @@
         "requires": ["Tactics"],
       },
       {
+        "name": "Literacy",
+        "row": 5,
+        "column": 5,
+        "cost": 600,
+        "requires": ["Citizenship"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
