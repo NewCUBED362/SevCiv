@@ -40,7 +40,7 @@
       {
         "name": "Public Life",
         "row": 3,
-        "column": 7,
+        "column": 5,
         "cost": 245,
         "requires": ["Mysticism"],
       },
@@ -54,7 +54,7 @@
       {
         "name": "Code of Laws Mastery",
         "row": 3,
-        "column": 5,
+        "column": 7,
         "cost": 196,
         "uniques": ["Only available <after adopting [Code of Laws]>"],
       },
