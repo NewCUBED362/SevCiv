@@ -165,7 +165,7 @@
 		"happiness": 3,
 		"cost": 90,
 		"maintenance": 2,
-		"uniques": ["Unavailable"],
+		"uniques": ["Only available <after adopting [Mysticism]>"],
 	},
 
   // Wonders
