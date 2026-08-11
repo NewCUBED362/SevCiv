@@ -252,5 +252,7 @@
 		"cost": 1,
 		"hurryCostModifier": -100,
 		"requiredResource": "Policy Slot",
+		"uniques": ["Can only be built <in [in capital] cities>",
+			        "Destroyed when the city is captured",],
 	}
 ]
