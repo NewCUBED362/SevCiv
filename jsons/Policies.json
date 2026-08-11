@@ -8,7 +8,7 @@
         "row": 1,
         "column": 5,
         "cost": 90,
-        "uniques": ["Comment [Enables: Charismatic Leader, Tool Making]"],
+        "uniques": ["Comment [Enables: Social Policies: Charismatic Leader, Tool Making]"],
       },
       {
         "name": "Mysticism",
@@ -16,7 +16,7 @@
         "column": 8,
         "cost": 125,
         "requires": ["Chiefdom"],
-        "uniques": ["Comment [Enables: Altar]"],
+        "uniques": ["Comment [Enables: Buildings: Altar. Social Policies: Priesthood]"],
       },
       {
         "name": "Mysticism Mastery",
