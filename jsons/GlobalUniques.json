@@ -26,6 +26,8 @@
         "[-90]% Culture cost of natural border growth [in all cities] <in cities with [10] [Population]>",
         "[-90]% Culture cost of natural border growth [in this city] <in cities with between [11] and [99] [Population]>",
 
-        "Enables Open Borders agreements"
+        "Enables Open Borders agreements",
+
+        "Adopt [Antiquity Civic Tree]"
     ]
 }
