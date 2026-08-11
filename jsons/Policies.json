@@ -108,6 +108,13 @@
         "requires": ["Citizenship"],
       },
       {
+        "name": "Philosophy",
+        "row": 6,
+        "column": 5,
+        "cost": 750,
+        "requires": ["Literacy"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
