@@ -38,6 +38,13 @@
         "uniques": ["Only available <after adopting [Discipline]>"],
       },
       {
+        "name": "Public Life",
+        "row": 3,
+        "column": 6,
+        "cost": 245,
+        "requires": ["Mysticism"],
+      },
+      {
         "name": "Antiquity Civic Tree Complete",
       }
     ]
