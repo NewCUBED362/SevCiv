@@ -159,6 +159,14 @@
 		"requiredTech": "Mathematics",
 		"uniques": ["[+1 Science] from [resource] tiles [in this city] <during the [Antiquity Age]>"],
 	},
+	// Antiquity Age Civic Buildings
+	{
+		"name": "Altar",
+		"happiness": 3,
+		"cost": 90,
+		"maintenance": 2,
+		"uniques": ["Unavailable"],
+	},
 
   // Wonders
 
