@@ -76,6 +76,8 @@
     "movement": 2,
     "strength": 25,
 	"requiredTech": "Bronze Working",
+	"obsoleteTech": "Iron Working",
+	"upgradesTo": "Phalanx",
 	"attackSound": "metalhit",
   },
   {
@@ -133,6 +135,15 @@
     "strength": 35,
 	"requiredTech": "Iron Working",
 	"attackSound": "horse",
+  },
+  {
+    "name": "Phalanx",
+    "unitType": "Sword",
+    "cost": 100,
+    "movement": 2,
+    "strength": 30,
+	"requiredTech": "Iron Working",
+	"attackSound": "metalhit",
   },
   // Unique Units
   {
