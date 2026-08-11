@@ -250,6 +250,7 @@
 	{
 		"name": "Charismatic Leader",
 		"cost": 1,
+		"hurryCostModifier": -100,
 		"requiredResource": "Policy Slot",
 	}
 ]
