@@ -213,7 +213,7 @@
 		"cost": 450,
 		"isWonder": true,
 		"requiredTech": "Iron Working",
-		"quote": "'The warriors' blood flowed like water and gathered in pools.' - Mexica Account of Toxcatl.",
+		"quote": "'A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast.' - Lucian of Samosata.",
 		"uniques": ["Can only be built <in [{Featureless} {Coast}] tiles>"],
 	},
 	{
