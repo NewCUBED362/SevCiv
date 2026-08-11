@@ -245,5 +245,11 @@
 		"requiredTech": "Mathematics",
 		"uniques": ["Comment [Scientific Victory Building]","Triggers a global alert upon completion", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
+	},
+	// Social Policies
+	{
+		"name": "Charismatic Leader",
+		"cost": 1,
+		"requiredResource": "Policy Slot",
 	}
 ]
