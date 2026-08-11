@@ -8,6 +8,7 @@
         "row": 1,
         "column": 5,
         "cost": 90,
+        "uniques": ["Comment [Enables: Charismatic Leader, Tool Making]"],
       },
       {
         "name": "Mysticism",
