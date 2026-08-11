@@ -108,6 +108,8 @@
     "movement": 3,
     "strength": 30,
 	"requiredTech": "The Wheel",
+	"obsoleteTech": "Iron Working",
+	"upgradesTo": "Horseman",
 	"attackSound": "horse",
   },
   {
@@ -122,6 +124,15 @@
 	"uniques": ["Cannot enter ocean tiles",
 	            "[-5] Strength <vs cities> <when attacking>"],
 	"attackSound": "arrow",
+  },
+  {
+    "name": "Horseman",
+    "unitType": "Mounted",
+    "cost": 120,
+    "movement": 3,
+    "strength": 35,
+	"requiredTech": "Iron Working",
+	"attackSound": "horse",
   },
   // Unique Units
   {
