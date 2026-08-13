@@ -295,5 +295,15 @@
 			        "Only available <after adopting [Mysticism]>",
 			        "Can only be built <in [in capital] cities>",
 			        "Destroyed when the city is captured"],
+	},
+	{
+		"name": "Clan Networks",
+		"cost": 1,
+		"hurryCostModifier": -100,
+		"requiredResource": "Policy Slot",
+		"uniques": ["[+20]% growth [in all cities]",
+			        "Only available <after adopting [Mysticism Mastery]>",
+			        "Can only be built <in [in capital] cities>",
+			        "Destroyed when the city is captured"],
 	}
 ]
