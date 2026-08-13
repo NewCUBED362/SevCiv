@@ -6,5 +6,12 @@
     "unitTypes": ["Sword","Mounted","Support","Archery","Siege"],
     "innerColor": [255,255,255],
     "outerColor": [53,170,47],
+  },
+  {
+    "name": "Steadfast",
+    "prerequisites": ["Bastion"],
+    "column": 2,
+    "row": 1,
+    "unitTypes": ["Sword","Mounted","Support","Archery","Siege"],
   }
 ]
