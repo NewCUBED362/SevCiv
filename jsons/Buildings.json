@@ -190,6 +190,14 @@
 		"uniques": ["Can only be built <in [Coastal] cities>"],
 	},
 	{
+		"name": "Dur-Sharrukin",
+		"science": 1,
+		"cost": 275,
+		"isWonder": true,
+		"quote": "'He doth bestride the narrow world, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare.",
+		"uniques": ["Only available <after adopting [Discipline]>"],
+	},
+	{
 		"name": "Great Library",
 		"science": 4,
 		"cost": 375,
