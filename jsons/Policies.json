@@ -23,7 +23,8 @@
         "row": 2,
         "column": 6,
         "cost": 100,
-        "uniques": ["Only available <after adopting [Mysticism]>"],
+        "uniques": ["Comment [Enables: Wonder: Great Stele. Social Policies: Clan Networks]",
+                    "Only available <after adopting [Mysticism]>"],
       },
       {
         "name": "Discipline",
