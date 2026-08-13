@@ -145,14 +145,6 @@
 	"requiredTech": "Iron Working",
 	"attackSound": "metalhit",
   },
-  {
-    "name": "Legatus",
-    "unitType": "Support",
-    "cost": 100,
-    "movement": 2,
-	"strength": 20,
-    "uniques": ["Cannot attack"],
-  },
   // Unique Units
   {
     "name": "Medjay",
