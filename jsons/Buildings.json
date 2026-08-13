@@ -212,7 +212,7 @@
 		"production": 2,
 		"cost": 275,
 		"isWonder": true,
-		"quote": "'The place for the cure of the soul.' - Inscription over the door at the library.",
+		"quote": "'May the might of the Lord cause no enemy to resist me, no enemy to follow me.' - Aksumite Inscription.",
 		"uniques": ["Gain [200] [Gold] <upon constructing [Wonder]>",
 			        "Only available <after adopting [Mysticism Mastery]>",
 			        "Can only be built <in [Featureless] tiles>"],
