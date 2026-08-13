@@ -190,7 +190,8 @@
 	"uniqueTo": "Rome",
     "uniques": ["[+15]% Strength bonus for [Friendly] units within [1] tiles",
 		        "Founds a new city <by consuming this unit>",
-		        "Cannot attack"],
+		        "Cannot attack",
+	            "Only available <after adopting [Discipline]>"],
   },
 ]
     
