@@ -208,6 +208,15 @@
 			        "Can only be built <in [Coastal] cities>"],
 	},
 	{
+		"name": "Great Stele",
+		"production": 2,
+		"cost": 275,
+		"isWonder": true,
+		"quote": "'The place for the cure of the soul.' - Inscription over the door at the library.",
+		"uniques": ["Only available <after adopting [Mysticism Mastery]>",
+			        "Can only be built <in [Featureless] tiles>"],
+	},
+	{
 		"name": "Hanging Gardens",
 		"cost": 275,
 		"isWonder": true,
