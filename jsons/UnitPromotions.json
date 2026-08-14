@@ -32,4 +32,12 @@
     "unitTypes": ["Commander"],
     "uniques": ["[+10]% Strength bonus for [Friendly] units within [1] tiles <in [Fort] tiles>"],
   }
+  {
+    "name": "Defilade",
+    "prerequisites": ["Bulwark"],
+    "column": 4,
+    "row": 1,
+    "unitTypes": ["Commander"],
+    "uniques": ["[+10]% Strength bonus for [Friendly] units within [1] tiles <in [Fort] tiles>"],
+  }
 ]
