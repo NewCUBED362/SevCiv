@@ -23,5 +23,13 @@
     "row": 1,
     "unitTypes": ["Commander"],
     "uniques": ["[+5]% Strength bonus for [Friendly] units within [1] tiles <when defending>"],
+  },
+  {
+    "name": "Hold the Line",
+    "prerequisites": ["Steadfast"],
+    "column": 3,
+    "row": 2,
+    "unitTypes": ["Commander"],
+    "uniques": ["[+10]% Strength bonus for [Friendly] units within [1] tiles <in [Fort] tiles>"],
   }
 ]
