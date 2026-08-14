@@ -1,4 +1,5 @@
 [
+  // Bastion Tree
   {
     "name": "Bastion",
     "column": 1,
@@ -13,5 +14,6 @@
     "column": 2,
     "row": 1,
     "unitTypes": ["Commander"],
+    "uniques": ["[+5]% Strength bonus for [Friendly] units within [1] tiles <when defending>"],
   }
 ]
