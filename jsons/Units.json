@@ -145,6 +145,17 @@
 	"requiredTech": "Iron Working",
 	"attackSound": "metalhit",
   },
+  {
+    "name": "Army Commander",
+    "unitType": "Commander",
+    "cost": 100,
+    "movement": 2,
+	"strength": 25,
+	"rangedStrength": 20,
+	"range": 2,
+    "uniques": ["[+15]% Strength bonus for [Friendly] units within [1] tiles",
+	            "Only available <after adopting [Discipline]>"],
+  },
   // Unique Units
   {
     "name": "Medjay",
@@ -183,14 +194,16 @@
   },
   {
     "name": "Legatus",
-    "unitType": "Support",
+    "unitType": "Commander",
     "cost": 100,
     "movement": 2,
-	"strength": 20,
+	"strength": 25,
+	"rangedStrength": 20,
+	"range": 2,
+	"replaces": "Army Commander",
 	"uniqueTo": "Rome",
     "uniques": ["[+15]% Strength bonus for [Friendly] units within [1] tiles",
 		        "Founds a new city <by consuming this unit>",
-		        "Cannot attack",
 	            "Only available <after adopting [Discipline]>"],
   },
 ]
