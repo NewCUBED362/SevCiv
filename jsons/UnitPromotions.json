@@ -3,7 +3,7 @@
     "name": "Bastion",
     "column": 1,
     "row": 1,
-    "unitTypes": ["Sword","Mounted","Support","Archery","Siege"],
+    "unitTypes": ["Commander"],
     "innerColor": [255,255,255],
     "outerColor": [53,170,47],
   },
@@ -12,6 +12,6 @@
     "prerequisites": ["Bastion"],
     "column": 2,
     "row": 1,
-    "unitTypes": ["Sword","Mounted","Support","Archery","Siege"],
+    "unitTypes": ["Commander"],
   }
 ]
