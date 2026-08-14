@@ -15,5 +15,13 @@
     "row": 1,
     "unitTypes": ["Commander"],
     "uniques": ["[+5]% Strength bonus for [Friendly] units within [1] tiles <when defending>"],
+  },
+  {
+    "name": "Bulwark",
+    "prerequisites": ["Steadfast"],
+    "column": 3,
+    "row": 1,
+    "unitTypes": ["Commander"],
+    "uniques": ["[+5]% Strength bonus for [Friendly] units within [1] tiles <when defending>"],
   }
 ]
