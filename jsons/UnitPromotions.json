@@ -47,5 +47,13 @@
     "row": 2,
     "unitTypes": ["Commander"],
     "uniques": ["All adjacent units heal [+15] HP when healing"],
+  },
+  {
+    "name": "Resolute",
+    "prerequisites": ["Defilade","Garrison"],
+    "column": 5,
+    "row": 1,
+    "unitTypes": ["Commander"],
+    "uniques": ["All adjacent units heal [+5] HP when healing"],
   }
 ]
