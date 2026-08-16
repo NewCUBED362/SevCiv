@@ -55,5 +55,14 @@
     "row": 1,
     "unitTypes": ["Commander"],
     "uniques": ["All adjacent units heal [+5] HP when healing"],
-  }
+  },
+  // Assault Tree
+  {
+    "name": "Assault",
+    "column": 1,
+    "row": 4,
+    "unitTypes": ["Commander"],
+    "innerColor": [255,255,255],
+    "outerColor": [53,170,47],
+  },
 ]
