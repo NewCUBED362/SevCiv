@@ -65,4 +65,12 @@
     "innerColor": [255,255,255],
     "outerColor": [157,31,31],
   },
+  {
+    "name": "Initiative",
+    "prerequisites": ["Assault"],
+    "column": 2,
+    "row": 4,
+    "unitTypes": ["Commander"],
+    "uniques": ["[+1] Movement <for [{Friendly} {Military}] units> <when adjacent to a [Commander] unit>"],
+  }
 ]
