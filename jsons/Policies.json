@@ -32,7 +32,7 @@
         "column": 4,
         "cost": 125,
         "requires": ["Chiefdom"],
-        "uniques": ["Comment [Enables: Social Policies: [Survey]. Wonder: [Dur-Sharrukin]. Units: [Army Commander]",
+        "uniques": ["Comment [Enables: Social Policies: Survey. Wonder: Dur-Sharrukin. Units: Army Commander.",
                     "Free [Army Commander] appears"],
       },
       {
