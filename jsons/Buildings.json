@@ -314,5 +314,16 @@
 			        "Only available <after adopting [Mysticism Mastery]>",
 			        "Can only be built <in [in capital] cities>",
 			        "Destroyed when the city is captured"],
+	},
+	{
+		"name": "Survey",
+		"cost": 1,
+		"hurryCostModifier": -100,
+		"requiredResource": "Policy Slot",
+		"uniques": ["[+1] Movement <for [Scout] units>",
+			        "[+1] Sight <for [Scout] units>",
+			        "Only available <after adopting [Discipline]>",
+			        "Can only be built <in [in capital] cities>",
+			        "Destroyed when the city is captured"],
 	}
 ]
