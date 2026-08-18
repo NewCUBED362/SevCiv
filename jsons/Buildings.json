@@ -199,6 +199,14 @@
 			        "Only available <after adopting [Discipline]>"],
 	},
 	{
+		"name": "Gate of All Nations",
+		"happiness": 2,
+		"cost": 275,
+		"isWonder": true,
+		"quote": "'From this day forward, your pronouncement shall be unchangeable, to raise or bring low - these shall be in your hand.' - Enūma Eliš.",
+		"uniques": ["Only available <after adopting [Discipline Mastery]>"],
+	},
+	{
 		"name": "Great Library",
 		"science": 4,
 		"cost": 375,
