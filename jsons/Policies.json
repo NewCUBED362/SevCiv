@@ -32,6 +32,7 @@
         "column": 4,
         "cost": 125,
         "requires": ["Chiefdom"],
+        "uniques": ["Free [Army Commander] appears"],
       },
       {
         "name": "Discipline Mastery",
