@@ -40,7 +40,8 @@
         "row": 2,
         "column": 2,
         "cost": 125,
-        "uniques": ["Only available <after adopting [Discipline]>"],
+        "uniques": ["Comment [Enables: Social Policies: Honor. Wonder: Gate of all Nations.",
+                    "Only available <after adopting [Discipline]>"],
       },
       {
         "name": "Public Life",
